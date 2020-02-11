@@ -32,7 +32,7 @@
             </b-card>
           </b-card-group>
         </div>
-        <br><br><br><br><br><br><br><br>
+        <br><br><br><br><br><br><br><br><br><br>
       </b-container>
     </section>
   </Layout>

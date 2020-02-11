@@ -12,14 +12,14 @@
 ">Description Read Me</b-button>
 </div>
 
-<b-button block href="http://bit.ly/36xDyVd" target="_blank" variant="info">Series 1 &rArr;</b-button>
-<b-button block href="http://bit.ly/2RTUFv6" target="_blank" variant="info">Series 2 &rArr;</b-button>
-<b-button block href="http://bit.ly/38HAWFC" target="_blank" variant="info">Series 3 &rArr;</b-button>
-<b-button block href="http://bit.ly/2GBfd6d" target="_blank" variant="info">Series 4 &rArr;</b-button>
-<b-button block href="http://bit.ly/36Faewg" target="_blank" variant="info">Series 5 &rArr;</b-button>
-<b-button block href="http://bit.ly/2RXivWY" target="_blank" variant="info">Series 6 &rArr;</b-button>
-<b-button block href="http://bit.ly/2uDVvEs" target="_blank" variant="info">Series 7 &rArr;</b-button>
-<b-button block href="http://bit.ly/2RUH8Dv" target="_blank" variant="info">Series 8 &rArr;</b-button>
+<b-button block href="http://bit.ly/2UCnlvI" target="_blank" variant="info">Series 1 &rArr;</b-button>
+<b-button block href="http://bit.ly/37fAVrq" target="_blank" variant="info">Series 2 &rArr;</b-button>
+<b-button block href="http://bit.ly/2SfQoDw" target="_blank" variant="info">Series 3 &rArr;</b-button>
+<b-button block href="http://bit.ly/3bsD9Hc" target="_blank" variant="info">Series 4 &rArr;</b-button>
+<b-button block href="http://bit.ly/2vlnedh" target="_blank" variant="info">Series 5 &rArr;</b-button>
+<b-button block href="http://bit.ly/38lAnle" target="_blank" variant="info">Series 6 &rArr;</b-button>
+<b-button block href="http://bit.ly/39jeXoS" target="_blank" variant="info">Series 7 &rArr;</b-button>
+<b-button block href="http://bit.ly/2SvYBm6" target="_blank" variant="info">Series 8 &rArr;</b-button>
 
 <br><br>
 

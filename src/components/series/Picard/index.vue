@@ -11,7 +11,7 @@
     <b-button block variant="success" v-b-tooltip.hover title="Retired admiral Jean-Luc Picard -- still deeply affected by the loss of Lieutenant Commander Data and the destruction of Romulus -- steps into the next chapter of his life.">Description Read Me</b-button>
 </div>
 
-<b-button block href="http://bit.ly/2GsvTNu" target="_blank" variant="info">Series 1 &rArr;</b-button>
+<b-button block href="http://bit.ly/31M9fsZ" target="_blank" variant="info">Series 1 &rArr;</b-button>
 
 
 <br><br>
