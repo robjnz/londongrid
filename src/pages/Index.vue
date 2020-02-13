@@ -1,21 +1,25 @@
 <template>
   <Layout>
     <b-container class="container">
-      <b-row>
-        <h1>What on in East London February 2020</h1>
-
-        <br />
-        <b-embed
-          type   = "iframe"
-          aspect = "16by9"
-          src    = "https://walls.io/snjfm?nobackground=1&amp;show_header=0"
-          style  = "border:0;height:800px;width:100%"
-          title  = "londoneast.life"
-          allowfullscreen
-        ></b-embed>
-      </b-row>
+      <h1>What on in East London February 2020</h1>
       <div class="port container" id="works">
-        
+        <div class="row">
+          <div class="work col-md-12">
+            <div class="work-card">
+              <b-embed
+                type   = "iframe"
+                aspect = "16by9"
+                src    = "https://walls.io/snjfm?nobackground=1&amp;show_header=0"
+                style  = "border:0;height:800px;width:100%"
+                title  = "londoneast.life"
+                allowfullscreen
+              ></b-embed>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="port container" id="works">
         <div class="row">
           <div class="work col-md-6">
             <div class="work-card">
