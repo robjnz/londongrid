@@ -27,7 +27,7 @@ body {
   padding-left : 2px;
   padding-right: 2px;
   background   : #242943;
-  color        : #FFCB31;
+  color        : #00ff7f;
 
 }
 

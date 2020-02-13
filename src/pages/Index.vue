@@ -1,7 +1,7 @@
 <template>
   <Layout>
     <b-container class="container">
-      <h1>What on in East London February 2020</h1>
+      <h1 class="asian">What on in East London February 2020</h1>
       <div class="port container" id="works">
         <div class="row">
           <div class="work col-md-12">
