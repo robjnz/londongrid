@@ -23,7 +23,7 @@
         <div class="row">
           <div class="work col-md-6">
             <div class="work-card">
-              <H4>Home Matches 15 February 2020</H4>
+              <H4>Home Matches Sat 15 February 2020</H4>
               <p>
                 <g-image src="~/images/charlton.png" width="40" />
                 Charlton Athletic V Blackburn Rovers<br />
@@ -36,6 +36,23 @@
               </p>
 
               <g-link to="/sport/football/">More Info</g-link>
+            </div>
+          </div>
+          <div class="work col-md-6">
+            <div class="work-card">
+              <H4></H4>
+              <p>
+                <g-image src="~/images/picard.jpeg" width="120" height="140" />
+                Star Trek Picard
+              </p>
+
+              <b-button
+                block
+                href    = "http://bit.ly/31M9fsZ"
+                target  = "_blank"
+                variant = "info"
+                >watch free on line &rArr;</b-button
+              >
             </div>
           </div>
         </div>
@@ -51,7 +68,7 @@ export default {
       {
         name   : "description",
         content: 
-          "What’s on today @ the local cinemas, theatres, nightclubs & football matches, free online movies, tv series, places to visit for days out in east London, places to eat, job search resources and much more!"
+          "What’s on today @ the local cinemas, theatres, nightclubs & football matches, free online movies, tv series, picard, places to visit for days out in east London, places to eat, job search resources and much more!"
       }
     ]
   }
