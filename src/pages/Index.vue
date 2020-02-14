@@ -45,14 +45,7 @@
                 <g-image src="~/images/picard.jpeg" width="120" height="140" />
                 Star Trek Picard
               </p>
-
-              <b-button
-                block
-                href    = "http://bit.ly/31M9fsZ"
-                target  = "_blank"
-                variant = "info"
-                >watch free on line &rArr;</b-button
-              >
+              <g-link to="http://bit.ly/31M9fsZ" target="_blank">Watch</g-link>
             </div>
           </div>
         </div>
