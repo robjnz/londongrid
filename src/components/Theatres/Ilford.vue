@@ -6,7 +6,7 @@
     align        = "center"
   >
     <br /><br />
-    <g-image
+    <b-img
       src = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1581154600/ourhouse_xt1hsx.jpg"
       fluid-grow
       alt = "our House poster"

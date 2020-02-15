@@ -5,9 +5,9 @@
 <h6>The Stadium<br>Bridge Avenue Upminster Essex RM14 2LX</h6>
 <p class="asian">
 
-Sat 15 Feb 2020 @ 3pm <br>V<br>Merstham<br>
-<!--
+
 Sat 29 Feb 2020 @ 3pm <br>V<br>Haringey Borough<br>
+<!--
 Sat 14 March 2020 @ 3pm <br>V<br>Lewes<br>
 Sat 21 March 2020 @ 3pm <br>V<br>Worthing<br>
 Sat 4 April 2020 @ 3pm <br>V<br>Carshalton<br>
