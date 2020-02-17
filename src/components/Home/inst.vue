@@ -1,6 +1,8 @@
 <template>
     <div class="work-card">
-      <h4>Whats On At East London Theatre</h4>
+      <h4><span style="font-size: 1em; color: Dodgerblue;">
+                <i class="fas fa-theater-masks"></i>
+              </span> Whats On At East London Theatre</h4>
               <b-embed
                 type   = "iframe"
                 aspect = "16by9"

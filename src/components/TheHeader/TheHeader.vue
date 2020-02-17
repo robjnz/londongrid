@@ -1,4 +1,5 @@
 <template>
+
 <section nav class="nav-bar">
   <b-navbar toggleable="md" type="dark" variant="info">
 

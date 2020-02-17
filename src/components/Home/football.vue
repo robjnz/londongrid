@@ -2,7 +2,9 @@
     
           
             <div class="work-card">
-              <H3>East London Home Matches</H3>
+              <H3><span style="font-size: 1em; color: Dodgerblue;">
+                <i class="far fa-futbol"></i>
+              </span> East London Home Matches</H3>
               <h4 class="tory" >Sat 22 February 2020</h4>
               <p>
                 <g-image src="~/images/barking.jpg" width="40" />
