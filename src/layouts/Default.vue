@@ -83,6 +83,13 @@ color: #1A8c97;
 .today{
   color: #FFF5EE;
 }
+
+.work-card {
+  box-shadow   : 0px 0px 20px rgba(0, 0, 0.1);
+  padding      : 1rem;
+  border-radius: 0.2rem;
+  color        : #00ff7f;
+}
 </style>
 
 
@@ -93,6 +100,13 @@ import Icons from '@/components/TheFooter/Icons'
 
 
 export default {
+   script: [
+
+        {scr: 'https: //cdn.jsdelivr.net/npm/gsap@3.0.4/dist/gsap.min.js'},
+        {src: 'https://cdn.jsdelivr.net/npm/jquery@3.4.1/dist/jquery.min.js' },
+        {src: 'https://cdn.jsdelivr.net/npm/animejs@3.1.0/lib/anime.min.js'},
+        {src: 'https://kit.fontawesome.com/e3c70d4fc5.js'}
+      ],
   components: {
     TheHeader,
     Icons,
