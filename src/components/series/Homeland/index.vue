@@ -18,6 +18,8 @@
 <b-button block href="http://bit.ly/307vbgA" target="_blank" variant="info">Series 5 &rArr;</b-button>
 <b-button block href="http://bit.ly/2Z5KzZQ" target="_blank" variant="info">Series 6 &rArr;</b-button>
 <b-button block href="http://bit.ly/2OY9gHR" target="_blank" variant="info">Series 7 &rArr;</b-button>
+<b-button block href="http://bit.ly/2SHSson" target="_blank" variant="info">Series 8 &rArr;</b-button>
+
 <br><br>
 
 </b-card>
