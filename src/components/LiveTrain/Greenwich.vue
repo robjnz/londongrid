@@ -4,7 +4,7 @@
       <b-card-group deck
       class="mb-3">
     <b-card  bg-variant="dark" text-variant="white" title="Greenwich">
-  <p class="title-color">
+  <p class="asian">
     Live train times: overground stations.
   </p>
   <b-button-group>
@@ -41,7 +41,7 @@
   </b-card>
 
 <b-card  bg-variant="dark" text-variant="white" title="Greenwich">
-  <p class="title-color">
+  <p class="asian">
     Live train times: underground stations.
     </p>
 <b-button-group>
@@ -49,7 +49,7 @@
   </b-button-group>
   <br>
   <br>
-  <p class="title-color">
+  <p class="asian">
     Live train times: DLR stations.
     </p>
 
@@ -70,7 +70,7 @@
   </b-button-group>
   <br>
   <br>
-  <p class="title-color">
+  <p class="asian">
     Live River Bus times.
     </p>
   <b-button-group>

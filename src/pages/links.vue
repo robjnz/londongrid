@@ -3,7 +3,7 @@
     <section main>
       <b-container>
         <b-row>
-          <h1 class="title-color">
+          <h1 class="asian">
             <span style="font-size: 1em; color: Dodgerblue;">
               <i class="fas fa-link"></i>
             </span>
@@ -20,7 +20,7 @@
                       title        = "Buy With Confidence"
                       align        = "center"
                     >
-                      <p class="title-color">
+                      <p class="asian">
                         All the businesses listed on this website have been
                         vetted and approved by Trading Standards to ensure that
                         they operate in a legal, honest and fair way.
@@ -40,7 +40,7 @@
                       title        = "The Phone book"
                       align        = "center"
                     >
-                      <p class="title-color">
+                      <p class="asian">
                         The B.T phone book.
                         <br />
                         <br />
@@ -61,7 +61,7 @@
                       title        = "Fixya"
                       align        = "center"
                     >
-                      <p class="title-color">
+                      <p class="asian">
                         Search or ask for information how to fix things.
                         <br />
                         <br />
@@ -83,7 +83,7 @@
                       title        = "Parking Ticket Expert"
                       align        = "center"
                     >
-                      <p class="title-color">
+                      <p class="asian">
                         Fight parking ticket and learn about the tricks and
                         scams which are used to issue them.
                         <br />
@@ -102,7 +102,7 @@
                       title        = "Royal Mail"
                       align        = "center"
                     >
-                      <p class="title-color">
+                      <p class="asian">
                         Royal Mail web site.
                         <br />
                         <br />
@@ -122,7 +122,7 @@
                       title        = "192"
                       align        = "center"
                     >
-                      <p class="title-color">
+                      <p class="asian">
                         Search for People, Businesses & Places in the UK.
                         <br />
                         <br />
@@ -149,7 +149,7 @@
                         src    = "https://www.youtube.com/embed/otT_8ghHiH8"
                         allowfullscreen
                       ></b-embed>
-                      <p class="title-color">
+                      <p class="asian">
                         Record your preference not to receive
                         <br />unsolicited sales or marketing calls.
                         <br />
@@ -168,7 +168,7 @@
                       title
                       align = "center"
                     >
-                      <p class="title-color">
+                      <p class="asian">
                         <br />
                       </p>
                     </b-card>
@@ -179,7 +179,7 @@
                       title
                       align = "center"
                     >
-                      <p class="title-color">
+                      <p class="asian">
                         <br />
                       </p>
                     </b-card>
