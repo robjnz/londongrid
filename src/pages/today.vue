@@ -2,23 +2,33 @@
   <Layout>
     <section main>
       <b-container>
-        <h1 class="title-color">This months events in East London</h1>
-        <h2>February 2020</h2>
+        <h1 class="asian">
+          <span style="font-size: 1em; color: Dodgerblue;">
+            <i class="far fa-calendar-alt"></i>
+          </span>
+          This months events in East London
+        </h1>
+        <h2 class="tory">February 2020</h2>
         <br />
-        <b-card-group deck class="mb-3">
-          <b-card bg-variant="dark" text-variant="white" title="">
-            <!-- wall-->
-            <b-embed
-              type   = "iframe"
-              aspect = "16by9"
-              src    = "https://walls.io/snjfm?nobackground=1&amp;show_header=0"
-              style  = "border:0;height:800px;width:100%"
-              title  = "londoneast.life"
-              allowfullscreen
-            ></b-embed>
-          </b-card>
-        </b-card-group>
-        <!--
+
+        <div class="port container" id="works">
+          <div class="row">
+            <div class="work col-md-12">
+              <div class="work-card">
+                <b-card-group deck class="mb-3">
+                  <b-card bg-variant="dark" text-variant="white" title="">
+                    <!-- wall-->
+                    <b-embed
+                      type   = "iframe"
+                      aspect = "16by9"
+                      src    = "https://walls.io/snjfm?nobackground=1&amp;show_header=0"
+                      style  = "border:0;height:800px;width:100%"
+                      title  = "londoneast.life"
+                      allowfullscreen
+                    ></b-embed>
+                  </b-card>
+                </b-card-group>
+                <!--
 <b-card-group deck
 class="mb-3">
 <b-card bg-variant="dark" text-variant="white" title= "">
@@ -51,18 +61,22 @@ class="mb-3">
 </b-card-group>
 -->
 
-        <b-card-group deck class="mb-3">
-          <b-card bg-variant="dark" text-variant="white" title="">
-            <b-embed
-              type   = "iframe"
-              aspect = "16by9"
-              src    = "https://www.google.com/maps/d/embed?mid=1F9WADbgsmZ44JzTDdiOnHzyfux3uOFxI"
-              width  = "640"
-              height = "480"
-              allowfullscreen
-            ></b-embed>
-          </b-card>
-        </b-card-group>
+                <b-card-group deck class="mb-3">
+                  <b-card bg-variant="dark" text-variant="white" title="">
+                    <b-embed
+                      type   = "iframe"
+                      aspect = "16by9"
+                      src    = "https://www.google.com/maps/d/embed?mid=1F9WADbgsmZ44JzTDdiOnHzyfux3uOFxI"
+                      width  = "640"
+                      height = "480"
+                      allowfullscreen
+                    ></b-embed>
+                  </b-card>
+                </b-card-group>
+              </div>
+            </div>
+          </div>
+        </div>
       </b-container>
     </section>
   </Layout>

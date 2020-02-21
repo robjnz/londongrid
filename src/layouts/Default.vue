@@ -90,6 +90,10 @@ color: #1A8c97;
   border-radius: 0.2rem;
   color        : #00ff7f;
 }
+.left{
+text-align: left,
+color red,
+}
 </style>
 
 
