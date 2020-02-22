@@ -8,7 +8,9 @@
           </span>
           Cinemas
         </h1>
-        <h3 class="tory">Movies Showing This Week Sun 16 - Sat 22 Feb 2020</h3>
+        <h3 class="tory">
+          Movies Showing This Week Sun 16 - Thurs 27 Feb 2020
+        </h3>
         <div class="port container" id="works">
           <div class="row">
             <div class="work col-md-12">
@@ -29,30 +31,28 @@
             </div>
           </div>
         </div>
+        <br /><br />
+        <!--odeon-->
+        <div class="port container" id="works">
+          <div class="row">
+            <div class="work col-md-12">
+              <div class="work-card">
+                <h3>Odeon</h3>
+                <b-card-group deck class="mb-3">
+                  <greenwichodeon />
+                  <woodford />
+                  <Blank />
+                </b-card-group>
+              </div>
+            </div>
+          </div>
+        </div>
 
         <h1 class="asian">Cinemas</h1>
         <br />
 
         <div>
           <b-card-group deck class="mb-3">
-            <b-card bg-variant="dark" text-variant="white" title="Odeon">
-              <p class="title-color"></p>
-              <b-button-group>
-                <b-button
-                  href    = "https://kutt.it/odeon-greenwich"
-                  target  = "_blank"
-                  variant = "info"
-                  >Greenwich</b-button
-                >
-                <b-button
-                  href    = "https://kutt.it/odeon-woodford"
-                  target  = "_blank"
-                  variant = "info"
-                  >South Woodford</b-button
-                >
-              </b-button-group>
-            </b-card>
-
             <b-card
               bg-variant   = "dark"
               text-variant = "white"
@@ -80,9 +80,7 @@
                 >
               </b-button-group>
             </b-card>
-          </b-card-group>
 
-          <b-card-group deck class="mb-3">
             <b-card
               bg-variant   = "dark"
               text-variant = "white"
@@ -128,6 +126,9 @@ import bexley from "@/components/Cineworld/bexley";
 import greenwich from "@/components/Cineworld/greenwich";
 import ilford from "@/components/Cineworld/ilford";
 import west from "@/components/Cineworld/west";
+import greenwichodeon from "@/components/Odeon/greenwichodeon";
+import woodford from "@/components/Odeon/woodford";
+
 import Blank from "@/components/Films/Blank";
 
 export default {
@@ -146,6 +147,8 @@ export default {
     greenwich,
     ilford,
     west,
+    greenwichodeon,
+    woodford,
     Blank
   }
 };

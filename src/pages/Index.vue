@@ -15,12 +15,15 @@
         <div class="row">
           <div class="work col-md-6">
             <football />
+             <br>
+            <on />
           </div>
 
           <div class="work col-md-6">
             <series />
             <br />
-            <on />
+            <film />
+            
           </div>
         </div>
       </div>
@@ -32,6 +35,8 @@ import football from "@/components/Home/football";
 import series from "@/components/Home/series";
 import inst from "@/components/Home/inst";
 import on from "@/components/Home/on";
+import film from "@/components/Home/film";
+
 
 export default {
   metaInfo: {
@@ -40,7 +45,7 @@ export default {
       {
         name   : "description",
         content: 
-          "What’s on today @ the local cinemas, theatres, nightclubs & football matches, free online movies, tv series, picard, places to visit for days out in east London, places to eat, job search resources and much more!"
+          "What’s on today in east London @ the local cinemas Emma, theatres, nightclubs & football matches, free online movies, tv series, picard, places to visit for days out in east London, places to eat, job search resources and much more!"
       }
     ],
     script: [
@@ -54,7 +59,8 @@ export default {
     football,
     series,
     inst,
-    on
+    on,
+    film,
   }
 };
 </script>
