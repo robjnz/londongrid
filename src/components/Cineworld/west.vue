@@ -28,7 +28,7 @@
     >
     <p class="tory">
       Hertsmere Road West India Quay<br />
-      London E14 4AL
+      London <g-link class="asian" to="http://bit.ly/38RsLad" target="_blank">E14 4AL </g-link>
       <br /><span style="font-size: 1em; color: Dodgerblue;">
         <i class="fas fa-phone-square-alt"></i>
       </span>

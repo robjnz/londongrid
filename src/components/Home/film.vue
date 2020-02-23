@@ -40,5 +40,6 @@
     <g-link class="asian" to="http://bit.ly/2Pg8fZo" target="_blank"
       >Review
     </g-link>
+    <g-link to="/Ent/cinemas">More films</g-link>
   </div>
 </template>

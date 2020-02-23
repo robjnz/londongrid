@@ -11,6 +11,8 @@
         <h3 class="tory">
           Movies Showing This Week Sun 16 - Thurs 27 Feb 2020
         </h3>
+        <br /><br />
+        <!--cineworld-->
         <div class="port container" id="works">
           <div class="row">
             <div class="work col-md-12">
@@ -47,56 +49,45 @@
             </div>
           </div>
         </div>
+        <br /><br />
+        <!--Picturehouses-->
+        <div class="port container" id="works">
+          <div class="row">
+            <div class="work col-md-12">
+              <div class="work-card">
+                <h3>Picturehouses</h3>
+                <b-card-group deck class="mb-3">
+                  <greenwichpict />
+                  <hackney />
+                  <stratfordpict />
+                </b-card-group>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <br /><br />
+        <!--Showcase-->
+        <div class="port container" id="works">
+          <div class="row">
+            <div class="work col-md-12">
+              <div class="work-card">
+                <h3>Showcase</h3>
+                <b-card-group deck class="mb-3">
+                  <newham />
+                  <Blank />
+                  <Blank />
+                </b-card-group>
+              </div>
+            </div>
+          </div>
+        </div>
 
         <h1 class="asian">Cinemas</h1>
         <br />
 
         <div>
           <b-card-group deck class="mb-3">
-            <b-card
-              bg-variant   = "dark"
-              text-variant = "white"
-              title        = "Picturehouses"
-            >
-              <p class="title-color"></p>
-              <b-button-group>
-                <b-button
-                  href    = "https://kutt.it/picturehouse-greenwich"
-                  target  = "_blank"
-                  variant = "info"
-                  >Greenwich</b-button
-                >
-                <b-button
-                  href    = "https://kutt.it/picturehouse-hackney"
-                  target  = "_blank"
-                  variant = "info"
-                  >Hackney</b-button
-                >
-                <b-button
-                  href    = "https://kutt.it/picturehouse-stratford"
-                  target  = "_blank"
-                  variant = "info"
-                  >Stratford</b-button
-                >
-              </b-button-group>
-            </b-card>
-
-            <b-card
-              bg-variant   = "dark"
-              text-variant = "white"
-              title        = "Showcase Cinemas"
-            >
-              <p class="title-color"></p>
-              <b-button-group>
-                <b-button
-                  href    = "https://kutt.it/showcase-newham"
-                  target  = "_blank"
-                  variant = "info"
-                  >Newham</b-button
-                >
-              </b-button-group>
-            </b-card>
-
             <b-card bg-variant="dark" text-variant="white" title="Vue">
               <p class="title-color"></p>
               <b-button-group>
@@ -128,6 +119,10 @@ import ilford from "@/components/Cineworld/ilford";
 import west from "@/components/Cineworld/west";
 import greenwichodeon from "@/components/Odeon/greenwichodeon";
 import woodford from "@/components/Odeon/woodford";
+import greenwichpict from "@/components/Picturehouses/greenwichpict";
+import hackney from "@/components/Picturehouses/hackney";
+import stratfordpict from "@/components/Picturehouses/stratfordpict";
+import newham from "@/components/Showcase/newham";
 
 import Blank from "@/components/Films/Blank";
 
@@ -149,6 +144,10 @@ export default {
     west,
     greenwichodeon,
     woodford,
+    greenwichpict,
+    hackney,
+    stratfordpict,
+    newham,
     Blank
   }
 };

@@ -27,7 +27,7 @@
       >Description Read Me</b-button
     >
     <p class="tory">
-      The O2 Peninsula Square<br />London SE10 0DX <br /><span
+      The O2 Peninsula Square<br />London <g-link class="asian" to="http://bit.ly/2SSvFWE" target="_blank">SE10 0DX </g-link>  <br /><span
         style = "font-size: 1em; color: Dodgerblue;"
       >
         <i class="fas fa-phone-square-alt"></i>

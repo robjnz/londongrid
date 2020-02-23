@@ -22,7 +22,7 @@
       >Description Read Me</b-button
     >
     <p class="tory">
-      I-Scene Clements Road<br />Ilford Essex IG1 1BP <br /><span
+      I-Scene Clements Road<br />Ilford Essex <g-link class="asian" to="http://bit.ly/32jPc5z" target="_blank">IG1 1BP</g-link>  <br /><span
         style = "font-size: 1em; color: Dodgerblue;"
       >
         <i class="fas fa-phone-square-alt"></i>

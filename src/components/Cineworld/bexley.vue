@@ -27,7 +27,7 @@
       >Description Read Me</b-button
     >
     <p class="tory">
-      28-70 Broadway Bexleyheath<br />London DA6 7LL<br /><span
+      28-70 Broadway Bexleyheath<br />London <g-link class="asian" to="http://bit.ly/2PhiMUe" target="_blank">DA6 7LL </g-link> <br /><span
         style = "font-size: 1em; color: Dodgerblue;"
       >
         <i class="fas fa-phone-square-alt"></i>
