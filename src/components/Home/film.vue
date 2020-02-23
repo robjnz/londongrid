@@ -3,13 +3,13 @@
     <H4
       ><span style="font-size: 1em; color: Dodgerblue;">
         <i class="fas fa-film"></i>
-      </span> 
+      </span>
       Cinama</H4
     >
     <h3 class="tory">Emma</h3>
     <p>
       Showing This Week at: <br />
-      Cineworld 
+      Cineworld
       <span style="font-size: 1em; color: white;">
         <i class="fas fa-hand-point-right"></i>
       </span>
@@ -28,6 +28,27 @@
       <g-link to="http://bit.ly/2RHzlLl" target="_blank">
         South Woodford</g-link
       >
+      <br />
+      Picturehouse
+      <span style="font-size: 1em; color: white;">
+        <i class="fas fa-hand-point-right"></i>
+      </span>
+      <g-link to="http://bit.ly/37WqJER" target="_blank"> Greenwich</g-link>
+      <g-link to="http://bit.ly/37WqJER" target="_blank"> Hackney</g-link>
+      <g-link to="http://bit.ly/37QmjPy" target="_blank"> Stratford</g-link>
+      <br />
+      Showcase
+      <span style="font-size: 1em; color: white;">
+        <i class="fas fa-hand-point-right"></i>
+      </span>
+      <g-link to="http://bit.ly/2yCcvds" target="_blank"> Newham</g-link>
+      <br />
+      Vue
+      <span style="font-size: 1em; color: white;">
+        <i class="fas fa-hand-point-right"></i>
+      </span>
+      <g-link to="http://bit.ly/2qdceZw" target="_blank"> Romford</g-link>
+      <g-link to="http://bit.ly/2D9eWYS" target="_blank"> Statford</g-link>
     </p>
     <p>
       <b-embed

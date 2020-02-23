@@ -6,9 +6,9 @@
 <!-- westhamwomen WHUFC -->
 <p class="asian">
 
-sun 23 Feb 2020 @ 3pm <br>V<br>Liverpool<br>
-<!--
+
 Sun 29 March 2020 @ 3pm <br>V<br>Arsenal<br>
+<!--
 Sat 16 May 2020 @ 3pm <br>V<br>Bristol City<br>
 -->
 </p>

@@ -42,3 +42,5 @@
     <g-link to="http://bit.ly/2yCcvds" target="_blank"> More Info</g-link>
   </b-card>
 </template>
+
+

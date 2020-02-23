@@ -22,15 +22,19 @@
       >Description Read Me</b-button
     >
     <p class="tory">
-      I-Scene Clements Road<br />Ilford Essex <g-link class="asian" to="http://bit.ly/32jPc5z" target="_blank">IG1 1BP</g-link>  <br /><span
-        style = "font-size: 1em; color: Dodgerblue;"
+      I-Scene Clements Road<br />Ilford Essex
+      <g-link class="asian" to="http://bit.ly/32jPc5z" target="_blank"
+        >IG1 1BP</g-link
       >
+      <br /><span style="font-size: 1em; color: Dodgerblue;">
         <i class="fas fa-phone-square-alt"></i>
       </span>
       0330 333 4444
     </p>
 
-    <g-link class="asian" to="http://bit.ly/2T702rx" target="_blank">Review </g-link>
+    <g-link class="asian" to="http://bit.ly/2T702rx" target="_blank"
+      >Review
+    </g-link>
     <g-link to="http://bit.ly/2T1O9D3" target="_blank"> More Info</g-link>
   </b-card>
 </template>
