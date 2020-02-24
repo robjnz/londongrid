@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[20],{196:function(t,n,e){"use strict";e.r(n);var r=e(15),s=Object(r.a)({},(function(){var t=this.$createElement;return(this._self._c||t)("b-button",{attrs:{href:"/Ent/free-movies",variant:"info"}},[this._v("2020")])}),[],!1,null,null,null);n.default=s.exports}}]);

@@ -3,71 +3,82 @@
     <section main>
       <b-container>
         <h1 class="asian">2018 Movies free to watch online</h1>
+
         <b-button-group>
-          <eighteenB />
+          <twentyB />
           <nineteenB />
+          <eighteenB />
         </b-button-group>
         <br /><br />
-        <Alert />
-        <b-card-group deck class="mb-3 ">
-          <Star /><!--A star is Born-->
-          <Aquaman /><!--Aquaman -->
-          <Boy /><!--Beautiful Boy -->
-        </b-card-group>
+        <div class="port container" id="works">
+          <div class="row">
+            <div class="work col-md-12">
+              <div class="work-card">
+                <Alert />
+                <b-card-group deck class="mb-3 ">
+                  <Star /><!--A star is Born-->
+                  <Aquaman /><!--Aquaman -->
+                  <Boy /><!--Beautiful Boy -->
+                </b-card-group>
 
-        <b-card-group deck class="mb-3 ">
-          <Ben /><!--Ben is Back 15-->
-          <Bohemian /><!--Bohemian Rhapsody -->
-          <Erased /><!--Boy Erased-->
-        </b-card-group>
+                <b-card-group deck class="mb-3 ">
+                  <Ben /><!--Ben is Back 15-->
+                  <Bohemian /><!--Bohemian Rhapsody -->
+                  <Erased /><!--Boy Erased-->
+                </b-card-group>
 
-        <b-card-group deck class="mb-3 ">
-          <Bumblebee /><!--Bumblebee -->
-          <Forgive /><!--Can You Ever Forgive Me -->
-          <Cold /><!--cold Pursuit -->
-        </b-card-group>
+                <b-card-group deck class="mb-3 ">
+                  <Bumblebee /><!--Bumblebee -->
+                  <Forgive /><!--Can You Ever Forgive Me -->
+                  <Cold /><!--cold Pursuit -->
+                </b-card-group>
 
-        <b-card-group deck class="mb-3 ">
-          <Wedding /><!--Destination Wedding -->
-          <Concrete /><!--Dragged Across Concrete -->
-          <Eighth /><!--Eighth Grade -->
-        </b-card-group>
+                <b-card-group deck class="mb-3 ">
+                  <Wedding /><!--Destination Wedding -->
+                  <Concrete /><!--Dragged Across Concrete -->
+                  <Eighth /><!--Eighth Grade -->
+                </b-card-group>
 
-        <b-card-group deck class="mb-3 ">
-          <Green /><!--Green Book-->
-          <Life /><!--High Life -->
-          <Family /><!--Instant Family  -->
-        </b-card-group>
+                <b-card-group deck class="mb-3 ">
+                  <Green /><!--Green Book-->
+                  <Life /><!--High Life -->
+                  <Family /><!--Instant Family  -->
+                </b-card-group>
 
-        <b-card-group deck class="mb-3 ">
-          <Scots /><!--Mary Queen Of Scots -->
-          <Poppins /><!--Mary Poppins-->
-          <Mid /><!--Mid 90s -->
-        </b-card-group>
+                <b-card-group deck class="mb-3 ">
+                  <Scots /><!--Mary Queen Of Scots -->
+                  <Poppins /><!--Mary Poppins-->
+                  <Mid /><!--Mid 90s -->
+                </b-card-group>
 
-        <b-card-group deck class="mb-3 ">
-          <Sex /><!--On the basis of sex -->
-          <Blue /><!--Out Of Blue -->
-          <Pet /><!--Pet Sematary-->
-        </b-card-group>
+                <b-card-group deck class="mb-3 ">
+                  <Sex /><!--On the basis of sex -->
+                  <Blue /><!--Out Of Blue -->
+                  <Pet /><!--Pet Sematary-->
+                </b-card-group>
 
-        <b-card-group deck class="mb-3 ">
-          <Stan /><!--Stan & Ollie -->
-          <Styx /><!--Styx -->
-          <Favourite /><!--The Favourite -->
-        </b-card-group>
+                <b-card-group deck class="mb-3 ">
+                  <Stan /><!--Stan & Ollie -->
+                  <Styx /><!--Styx -->
+                  <Favourite /><!--The Favourite -->
+                </b-card-group>
 
-        <b-card-group deck class="mb-3 ">
-          <Grinch /><!--The Grinch-->
-          <Teacher /><!--The Kinder Teacher -->
-          <Sister /><!--The sisters Brother -->
-        </b-card-group>
+                <b-card-group deck class="mb-3 ">
+                  <Grinch /><!--The Grinch-->
+                  <Teacher /><!--The Kinder Teacher -->
+                  <Sister /><!--The sisters Brother -->
+                </b-card-group>
 
-        <b-card-group deck class="mb-3 ">
-          <Had /><!--What They Had -->
-          <Blank />
-          <Blank />
-        </b-card-group>
+                <b-card-group deck class="mb-3 ">
+                  <Had /><!--What They Had -->
+                  <Blank />
+                  <Blank />
+                </b-card-group>
+              </div>
+            </div>
+          </div>
+        </div>
+        <br />
       </b-container>
     </section>
   </Layout>
@@ -106,6 +117,7 @@ import Teacher from "@/components/Films/Teacher/Teacher";
 import Wedding from "@/components/Films/Wedding/Wedding";
 import nineteenB from "@/pages/Ent/nineteenB";
 import eighteenB from "@/pages/Ent/eighteenB";
+import twentyB from "@/pages/Ent/twentyB";
 
 export default {
   metaInfo: {
@@ -149,7 +161,8 @@ export default {
     Teacher,
     Wedding,
     eighteenB,
-    nineteenB
+    nineteenB,
+    twentyB
   }
 };
 </script>

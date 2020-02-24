@@ -28,6 +28,7 @@ body {
   padding-right: 2px;
   background   : #242943;
   color        : #00ff7f;
+  font-size    : 15;
 
 }
 
