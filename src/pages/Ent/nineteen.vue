@@ -2,7 +2,12 @@
   <Layout>
     <section main>
       <b-container>
-        <h1 class="asian">2019 Movies free to watch online</h1>
+        <h1 class="asian">
+          <span style="font-size: 1em; color: Dodgerblue;">
+            <i class="fas fa-film"></i>
+          </span>
+          2019 Movies free to watch online
+        </h1>
         <b-button-group>
           <twentyB />
           <nineteenB />
@@ -290,7 +295,7 @@ export default {
     NineteenSeventeen,
     eighteenB,
     nineteenB,
-    twentyB,
+    twentyB
   }
 };
 </script>

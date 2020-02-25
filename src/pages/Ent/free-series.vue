@@ -2,20 +2,32 @@
   <Layout>
     <section main>
       <b-container>
-        <h1 class="asian">Tv Series free to watch online</h1>
+        <h1 class="asian">
+          <span style="font-size: 1em; color: Dodgerblue;">
+            <i class="fas fa-tv"></i>
+          </span>
+          Tv Series
+        </h1>
+        <h3 class="tory">Free To Watch Online</h3>
+        <div class="port container" id="works">
+          <div class="row">
+            <div class="work col-md-12">
+              <div class="work-card">
+                <b-card-group deck class="mb-3 ">
+                  <Thrones /><!--Game of Thrones-->
+                  <Grimm /><!--Grimm-->
+                  <Homeland /><!--Homeland -->
+                </b-card-group>
 
-        <br /><br />
-        <b-card-group deck class="mb-3 ">
-          <Thrones /><!--Game of Thrones-->
-          <Grimm /><!--Grimm-->
-          <Homeland /><!--Homeland -->
-        </b-card-group>
-
-        <b-card-group deck class="mb-3 ">
-          <Picard /><!--star trek -->
-          <Handmaid /><!--The Handmaid's Tale-->
-          <Trial /><!--The Trial of Christine Keeler-->
-        </b-card-group>
+                <b-card-group deck class="mb-3 ">
+                  <Picard /><!--star trek -->
+                  <Handmaid /><!--The Handmaid's Tale-->
+                  <Trial /><!--The Trial of Christine Keeler-->
+                </b-card-group>
+              </div>
+            </div>
+          </div>
+        </div>
       </b-container>
     </section>
   </Layout>
