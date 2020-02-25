@@ -1,22 +1,24 @@
 <template>
-  <b-card bg-variant="dark" text-variant="white" title= "The Gift" align ="center">
-
+  <b-card bg-variant="dark" text-variant="white" title= "I Think We Are Alone" align ="center">
+<br />
+      <!--
       <b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1579626184/gift_zcyoj2.jpg" fluid-grow alt="The gift poster"/>
-
+-->
+<b-embed type="iframe"
+          aspect = "16by9"
+          src    = "https://www.youtube.com/embed/G9Zm1vVbzU0"
+          allowfullscreen
+  ></b-embed>
       <p class="title-color">
 
     Theatre Royal Stratford East<br>
-    Wed 29 Jan – Sat 15 Feb 2020
+    Tues 25 Feb - Sat 21 March 2020
 
     </p>
 
     <p class="asian">
 <div class="text-center my-3">
-  <b-button block variant="success" v-b-tooltip.hover title="Brighton, 1862. A day in the life of Sarah, an African girl, adopted by Queen Victoria and raised in the Queen’s circles. Today is the eve of her having to return to Africa but will she go?  
-
-The Present. A day in the life of Sarah, a black middle-class woman staying in a Cheshire village with her husband and small child. They are paid a visit by well-meaning neighbours who have something to confess…  
-
-The two Sarahs meet Queen Victoria for tea. This won’t be your regular tea party">Description Read Me</b-button>
+  <b-button block variant="success" v-b-tooltip.hover title="Two sisters are estranged and bicker over text. Their brittle and aggressive language is pushing them further apart when what they really want is to meet, clear the air and talk about the events that happened when they were young girls that haunt them still.">Description Read Me</b-button>
 </div>
 <p class="labour">
 

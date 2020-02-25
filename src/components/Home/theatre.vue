@@ -8,152 +8,115 @@
     >
     <p>
       <!--barking-->
-      <span style="color: #ef4836;"
-        >Broadway Theatre Barking &nbsp; &nbsp; &nbsp; &nbsp;
-      </span>
+      <span style="color: #ef4836;">Broadway Theatre Barking </span>
 
       <span style="font-size: 1em; color: white;">
         <i class="fas fa-hand-point-right"></i>
       </span>
       Fri 28 Feb 2020 7.30 pm
-      <span style="color: #ef4836;"
-        >&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-        Jazz Inc &nbsp; &nbsp; &nbsp;
+      <span style="color: #e000e0;">
+        Jazz Inc
       </span>
       <g-link to="http://bit.ly/2O857LG" target="_blank"> More Info</g-link>
 
       <br />
       <!--Greenwich Theatre-->
-      <span style="color: #ef4836;"
-        >Greenwich Theatre &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-        &nbsp; &nbsp; &nbsp;
-      </span>
+      <span style="color: #ef4836;">Greenwich Theatre </span>
 
       <span style="font-size: 1em; color: white;">
         <i class="fas fa-hand-point-right"></i>
       </span>
       Wed 26 Feb - Sat 7 Mar 2020
-      <span style="color: #ef4836;"
-        >&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Macbeth &nbsp; &nbsp;
-      </span>
+      <span style="color: #e000e0;"> Macbeth </span>
       <g-link to="http://bit.ly/2v7lp3D" target="_blank"> More Info</g-link>
 
       <br />
       <!--hackney-->
-      <span style="color: #ef4836;"
-        >Hackney Empire &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-        &nbsp; &nbsp; &nbsp; &nbsp;
-      </span>
+      <span style="color: #ef4836;">Hackney Empire </span>
 
       <span style="font-size: 1em; color: white;">
         <i class="fas fa-hand-point-right"></i>
       </span>
       Sat 29 Feb & Fri 6 Mar @ 7.30pm
-      <span style="color: #ef4836;"
-        >&nbsp; &nbsp; &nbsp; Così Fan Tutte &nbsp;</span
-      >
+      <span style="color: #e000e0;"> Così Fan Tutte </span>
       <g-link to="http://bit.ly/2JnhX7Z" target="_blank"> More Info</g-link>
 
       <br />
       <!--hoxton-->
-      <span style="color: #ef4836;"
-        >Hoxton Hall &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span
-      >
+      <span style="color: #ef4836;">Hoxton Hall </span>
 
       <span style="font-size: 1em; color: white;">
         <i class="fas fa-hand-point-right"></i>
       </span>
       Fri 28 Feb 2020 @ 8 pm
-      <span style="color: #ef4836;"
-        >&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-        &nbsp;&nbsp; Ms. Paolini’s Phantasmagoria Cabaret &nbsp;
+      <span style="color: #e000e0;">
+        Ms. Paolini’s Phantasmagoria Cabaret
       </span>
       <g-link to="http://bit.ly/2EX7IsG" target="_blank"> More Info</g-link>
 
       <br />
       <!--ilford-->
 
-      <span style="color: #ef4836;"
-        >Kenneth More Theatre Ilford &nbsp; &nbsp;
-      </span>
+      <span style="color: #ef4836;">Kenneth More Theatre Ilford </span>
 
       <span style="font-size: 1em; color: white;">
         <i class="fas fa-hand-point-right"></i>
       </span>
       Thurs 5 - Sat 7 March 2020
-      <span style="color: #ef4836;"
-        >&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Our House
-        &nbsp;
-      </span>
+      <span style="color: #e000e0;"> Our House </span>
       <g-link to="http://bit.ly/2K48nZl" target="_blank"> More Info</g-link>
 
       <br />
       <!--hornchurch-->
-      <span style="color: #ef4836;"
-        >Queen's Theatre Hornchurch &nbsp; &nbsp;
-      </span>
+      <span style="color: #ef4836;">Queen's Theatre Hornchurch </span>
 
       <span style="font-size: 1em; color: white;">
         <i class="fas fa-hand-point-right"></i>
       </span>
       Mon 2 Mar 2020 @ 7.30 pm
-      <span style="color: #ef4836;"
-        >&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Eric & Ern&nbsp;
-        &nbsp;
-      </span>
+      <span style="color: #e000e0;"> Eric & Ern </span>
       <g-link to="http://bit.ly/2Soh3MB" target="_blank"> More Info</g-link>
 
       <br />
       <!--stratford-->
-      <span style="color: #ef4836;"
-        >Theatre Royal Stratford East &nbsp; &nbsp; &nbsp;
-      </span>
+      <span style="color: #ef4836;">Theatre Royal Stratford East </span>
 
       <span style="font-size: 1em; color: white;">
         <i class="fas fa-hand-point-right"></i>
       </span>
-      <!--
-      Mon 2 Mar 2020 @ 7.30 pm
-      <span style="color: #ef4836;"
-        >&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Eric & Ern&nbsp;
-        &nbsp;
+
+      Tues 25 Feb - Sat 21 March 2020
+      <span style="color: #e000e0">
+        I Think We Are Alone
       </span>
-      <g-link to="http://bit.ly/2Soh3MB" target="_blank"> More Info</g-link>
--->
+      <g-link to="http://bit.ly/2JjU3Kr" target="_blank"> More Info</g-link>
+
       <br />
       <!--The O2 arena-->
-      <span style="color: #ef4836;"
-        >The O2 arena&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-      </span>
+      <span style="color: #ef4836;">The O2 arena </span>
 
       <span style="font-size: 1em; color: white;">
         <i class="fas fa-hand-point-right"></i>
       </span>
-      <!--
-      Mon 2 Mar 2020 @ 7.30 pm
-      <span style="color: #ef4836;"
-        >&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Eric & Ern&nbsp;
-        &nbsp;
-      </span>
-      <g-link to="http://bit.ly/2Soh3MB" target="_blank"> More Info</g-link>
--->
+
+      Sat 29 Feb 2020 @ 6.30 pm
+      <span style="color: #e000e0;"> The Script </span>
+      <g-link to="http://bit.ly/2PpXswU" target="_blank"> More Info</g-link>
+
       <br /><!--The Yard Hackney-->
-      <span style="color: #ef4836;"
-        >The Yard Hackney &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-      </span>
+      <span style="color: #ef4836;;">The Yard Hackney </span>
 
       <span style="font-size: 1em; color: white;">
         <i class="fas fa-hand-point-right"></i>
       </span>
-      <!--
-      Mon 2 Mar 2020 @ 7.30 pm
-      <span style="color: #ef4836;"
-        >&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Eric & Ern&nbsp;
-        &nbsp;
+      
+      Mon 24 Feb - Sat 14 March 2020
+      <span style="color: #e000e0;"
+        >Christopher Green - No Show
+        
       </span>
-      <g-link to="http://bit.ly/2Soh3MB" target="_blank"> More Info</g-link>
--->
+      <g-link to="http://bit.ly/2OYFsdx" target="_blank"> More Info</g-link>
+
       <br />
     </p>
     <g-link to="/Ent/theatres">Theatres</g-link>
