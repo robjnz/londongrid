@@ -7,8 +7,12 @@
         <div class="row">
           <div class="work col-md-12">
             <on />
+            
             <br />
+            <theatre />
+            <!--
             <inst />
+            -->
           </div>
         </div>
       </div>
@@ -16,6 +20,7 @@
       <div class="port container" id="works">
         <div class="row">
           <div class="work col-md-6">
+            
             <football />
           </div>
 
@@ -35,6 +40,7 @@ import series from "@/components/Home/series";
 import inst from "@/components/Home/inst";
 import on from "@/components/Home/on";
 import film from "@/components/Home/film";
+import theatre from "@/components/Home/theatre";
 
 export default {
   metaInfo: {
@@ -58,7 +64,8 @@ export default {
     series,
     inst,
     on,
-    film
+    film,
+    theatre
   }
 };
 </script>
