@@ -2,7 +2,12 @@
   <Layout>
     <section main>
       <b-container>
-        <h1 class="asian">East London Theatres</h1>
+        <h1 class="asian">
+          <span style="font-size: 1em; color: Dodgerblue;">
+            <i class="fas fa-theater-masks"></i>
+          </span>
+          Theatres
+        </h1>
         <h2 class="tory">February 2020</h2>
         <div class="port container" id="works">
           <div class="row">
@@ -65,7 +70,7 @@ export default {
     Ilford,
     Stratford,
     Two,
-    Yard,
+    Yard
   }
 };
 </script>

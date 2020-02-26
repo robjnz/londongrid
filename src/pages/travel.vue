@@ -6,7 +6,7 @@
           <span style="font-size: 1em; color: Dodgerblue;">
             <i class="fas fa-subway"></i>
           </span>
-          Live Train Information in East London
+          Live Train Information
         </h1>
         <div class="port container" id="works">
           <div class="row">

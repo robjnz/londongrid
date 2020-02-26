@@ -9,7 +9,7 @@
           Cinemas
         </h1>
         <h3 class="tory">
-          Movies Showing This Week Sun 16 - Thurs 27 Feb 2020
+          Movies Showing This Week 
         </h3>
         <br />
         <!--cineworld-->

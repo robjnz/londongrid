@@ -7,7 +7,7 @@
             <span style="font-size: 1em; color: Dodgerblue;">
               <i class="fas fa-hospital-symbol"></i>
             </span>
-            Hospitals in East London
+            Hospitals
           </h1>
           <br />
          

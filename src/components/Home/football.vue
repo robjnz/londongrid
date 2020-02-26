@@ -4,19 +4,15 @@
       ><span style="font-size: 1em; color: Dodgerblue;">
         <i class="far fa-futbol"></i>
       </span>
-      East London Home Matches</H3
+      Home Matches</H3
     >
-
-    <H4 class="tory">Tues 25 February 2020</H4>
-    <p>
-      <g-image src="~/images/redbridge.jpg" width="40" />
-      Redbridge V Tower Hamlets<br />
-    </p>
 
     <h4 class="tory">Sat 29 February 2020</h4>
     <p>
       <g-image src="~/images/dagred.png" width="40" />
       Dagenham & Redbridge V AFC Fylde<br />
+      <g-image src="~/images/redbridge.jpg" width="40" />
+      Redbridge V Sporting Bengal<br />
       <g-image src="~/images/walthamstow.jpg" width="40" />
       Walthamstow V Enfield<br />
 

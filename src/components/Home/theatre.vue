@@ -4,7 +4,7 @@
       ><span style="font-size: 1em; color: Dodgerblue;">
         <i class="fas fa-theater-masks"></i>
       </span>
-      East London Theatres</H4
+      Theatres</H4
     >
     <p>
       <!--barking-->
@@ -109,12 +109,9 @@
       <span style="font-size: 1em; color: white;">
         <i class="fas fa-hand-point-right"></i>
       </span>
-      
+
       Mon 24 Feb - Sat 14 March 2020
-      <span style="color: #e000e0;"
-        >Christopher Green - No Show
-        
-      </span>
+      <span style="color: #e000e0;">Christopher Green - No Show </span>
       <g-link to="http://bit.ly/2OYFsdx" target="_blank"> More Info</g-link>
 
       <br />

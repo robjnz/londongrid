@@ -10,6 +10,8 @@
             
             <br />
             <theatre />
+            <br />
+            <night />
             <!--
             <inst />
             -->
@@ -41,6 +43,8 @@ import inst from "@/components/Home/inst";
 import on from "@/components/Home/on";
 import film from "@/components/Home/film";
 import theatre from "@/components/Home/theatre";
+import night from "@/components/Home/night";
+
 
 export default {
   metaInfo: {
@@ -49,7 +53,7 @@ export default {
       {
         name   : "description",
         content: 
-          "What’s on today in east London @ the local cinemas Emma, theatres, nightclubs & football matches, free online movies, tv series, picard, places to visit for days out in east London, places to eat, job search resources and much more!"
+          "What’s on today in east London the local cinemas, theatres, nightclubs & football matches, free online movies, tv series, picard, places to visit for days out in east London, places to eat, job search resources and much more!"
       }
     ],
     script: [
@@ -65,7 +69,8 @@ export default {
     inst,
     on,
     film,
-    theatre
+    theatre,
+    night,
   }
 };
 </script>
