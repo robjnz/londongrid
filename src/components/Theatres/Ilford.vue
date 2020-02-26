@@ -27,9 +27,8 @@
         >Description Read Me</b-button
       >
     </div>
-    <p class="labour"></p>
-    <b-button href="http://bit.ly/2K48nZl" target="_blank" variant="info"
-      >open</b-button
-    >
+    <g-link class="labour" to="http://bit.ly/2K48nZl" target="_blank">
+      More Info
+    </g-link>
   </b-card>
 </template>

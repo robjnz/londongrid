@@ -1,12 +1,12 @@
 <template>
-  <b-card
-    bg-variant   = "dark"
-    text-variant = "white"
-    title        = "JAZZ INC"
-    align        = "center"
+  <b-card bg-variant="dark" text-variant="white" title="JAZZ INC" align="center"
     ><br />
-    <b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1582639766/jazz_mnsvyc.jpg" fluid-grow alt="Jazz poster"/>
-  
+    <b-img
+      src = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1582639766/jazz_mnsvyc.jpg"
+      fluid-grow
+      alt = "Jazz poster"
+    />
+
     <p class="title-color">
       Broadway Theatre Barking<br />
       Fri 28 Feb 2020 @ 7.30 pm
@@ -22,10 +22,8 @@
       >
     </div>
 
-    <p class="labour"></p>
-
-    <b-button href="http://bit.ly/2O857LG" target="_blank" variant="info"
-      >open</b-button
-    >
+    <g-link class="labour" to="http://bit.ly/2O857LG" target="_blank">
+      More Info
+    </g-link>
   </b-card>
 </template>
