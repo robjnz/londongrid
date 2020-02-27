@@ -1,21 +1,28 @@
 <template>
-  <b-card bg-variant="dark" text-variant="white" title= "Dagenham & Redbridge F.C." align="center">
-<a href="https://kutt.it/dagred-fc" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1543751795/dagenhamredbridge_kz5h8j.png" fluid-grow alt="Dagenham & Redbridge FC"/></a>
-<h6>Chigwell Construction Stadium<br>Victoria Road Dagenham RM10 7XL</h6>
-<!--Dag_RedFC-->
-<p class="asian">
+  <b-card bg-variant="dark" text-variant="white" title="" align="center">
+    <h2 class="asian">
+      <g-image src="~/images/dagred.png" width="50" />
+      Dagenham & Redbridge<br />
+    </h2>
+    <h6>
+      Chigwell Construction Stadium<br />Victoria Road Dagenham
+      <g-link class="labour" to="http://bit.ly/2uz0BC3" target="_blank">
+        RM10 7XL
+      </g-link>
+    </h6>
 
-  Sat 29 Feb 2020 @ 3pm<br>V<br>AFC Fylde<br>
-  <!--
+    <!--Dag_RedFC-->
+    <p class="asian">
+      Sat 29 Feb 2020 @ 3pm<br />V<br />AFC Fylde<br />
+      <!--
   Sat 21 March 2020 @ 3pm<br>V<br>Dover Athletic<br>
   Sat 4 April 2020 @ 3pm<br>V<br>Halifax Town<br>
   Mon 13 April 2020 @ 3pm<br>V<br>Eastleigh<br>
   Sat 25 April 2020 @ 5.20pm<br>V<br>Chesterfield<br>
 -->
-</p>
-    <b-button href="https://kutt.it/dagred-fc" target="_blank" variant="info">open</b-button>
-
-</b-card>
+    </p>
+    <g-link class="labour" to="http://bit.ly/2KLUYEr" target="_blank">
+      More Info
+    </g-link>
+  </b-card>
 </template>
-
-

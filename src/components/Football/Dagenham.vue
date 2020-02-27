@@ -1,13 +1,25 @@
 <template>
-<b-card bg-variant="dark" text-variant="white" title= "Dagenham United F.C." align="center">
-<a href="https://kutt.it/dagenham-fc" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1543751128/dagenhamunited_nogf8i.jpg" fluid-grow alt="Dagenham United FC"/></a>
-<p class="asian">
+  <b-card bg-variant="dark" text-variant="white" title="" align="center">
+    <h2 class="asian">
+      <g-image src="~/images/dagenham.jpg" width="50" />
+      Dagenham <br />
+    </h2>
+    <br />
 
-<br>
-</p>
+    <h6>
+      
+      Dagenham Football Centre<br />
+      138 Manor road<br />
+      Dagenham Essex
 
-    <b-button href="https://kutt.it/dagenham-fc" target="_blank" variant="info">open</b-button>
+      <g-link class="labour" to="http://bit.ly/3863055" target="_blank">
+        RM10 8BJ
+      </g-link>
+    </h6>
+    <p><br /><br /><br /></p>
 
-</b-card>
+    <g-link class="labour" to="http://bit.ly/2FRgg4A" target="_blank">
+      More Info
+    </g-link>
+  </b-card>
 </template>
-

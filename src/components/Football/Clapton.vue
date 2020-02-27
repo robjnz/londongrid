@@ -1,10 +1,23 @@
 <template>
-  <b-card bg-variant="dark" text-variant="white" title= "Clapton F.C.‎" align ="center">
-<a href="https://kutt.it/clapton-fc" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1544636800/clapton_fc_qkoljy.png" fluid-grow alt="Clapton F.C.‎"/></a>
-<p class="title-color">
+  <b-card bg-variant="dark" text-variant="white" title="‎" align="center">
+    <h2 class="asian">
+      <g-image src="~/images/bridon.jpg" width="50" />
+      Clapton<br />
+    </h2>
 
+    <h6>
+      Meridian Sports<br />
+      Charlton Park Lane<br />
+      Charlton London
 
-<br>
-</p>
-</b-card>
+      <g-link class="labour" to="http://bit.ly/2w5xaIh" target="_blank">
+        SE7 8QS
+      </g-link>
+    </h6>
+    <p><br /><br /><br /></p>
+
+    <g-link class="labour" to="http://bit.ly/2TmbxeB" target="_blank">
+      More Info
+    </g-link>
+  </b-card>
 </template>

@@ -2,8 +2,13 @@
   <Layout>
     <section main>
       <b-container>
-        <h1>Football Clubs in East London</h1>
-        <h2 class="asian">Home Matches & World Football Match Results</h2>
+        <h1 class="asian">
+          <span style="font-size: 1em; color: Dodgerblue;">
+            <i class="far fa-futbol"></i>
+          </span>
+          Home Matches
+        </h1>
+        <br />
         <div class="port container" id="works">
           <div class="row">
             <div class="work col-md-12">
@@ -21,128 +26,79 @@
             </div>
           </div>
         </div>
-        <!--<iframe src="https://www.unogoal.life/free_livescore.aspx" width="100%" height="5000"  scrolling="auto" frameborder="0"></iframe><p style="text-align: center;"><a href="https://www.unogoal.in" title="Powered by Unogoal livescores">www.unogoal.in</a></p>
--->
-        <h1 class="title-color">Barking & Dagenham</h1>
+
+        <br /><br />
         <div class="port container" id="works">
           <div class="row">
             <div class="work col-md-12">
               <div class="work-card">
                 <b-card-group deck class="mb-3">
                   <Barking />
-                  <DagRedbridge />
-                  <Dagenham />
-                </b-card-group>
+                  <Barkingside />
 
-                <b-card-group deck class="mb-3">
-                  <May />
-                  <Blank />
-                  <Blank />
-                </b-card-group>
-
-                <h1 class="title-color">Bexley</h1>
-
-                <b-card-group deck class="mb-3">
                   <Bexley />
-                  <Erithtown />
-                  <Erithbel />
                 </b-card-group>
-
-                <b-card-group deck class="mb-3">
-                  <Phoenix />
-                  <Welling />
-                  <Blank />
-                </b-card-group>
-
-                <h1 class="title-color">Greenwich</h1>
                 <b-card-group deck class="mb-3">
                   <Bridon />
+                  <Canning />
                   <Charlton />
+                </b-card-group>
+                <b-card-group deck class="mb-3">
                   <Charltonwomen />
-                </b-card-group>
 
+                  <Dagenham />
+
+                  <DagRedbridge />
+                </b-card-group>
                 <b-card-group deck class="mb-3">
-                  <Greenwich />
-                  <Blank />
-                  <Blank />
+                  <Erithtown />
+
+                  <Erithbel />
+
+                  <Frenford />
                 </b-card-group>
-
-                <h1 class="title-color">Hackney</h1>
-                <b-card-group deck class="mb-3">
-                  <Hackney />
-                  <Blank />
-                  <blank />
-                </b-card-group>
-
-                <h1 class="title-color">Havering</h1>
-
-                <b-card-group deck class="mb-3">
-                  <Hornchurch />
-                  <Romford />
-                  <Blank />
-                </b-card-group>
-
-                <h1 class="title-color">Lewisham</h1>
-
                 <b-card-group deck class="mb-3">
                   <Forest />
-                  <Lewisham />
-                  <blank />
+
+                  <Greenwich />
+
+                  <Hackney />
                 </b-card-group>
-
-                <h1 class="title-color">Newham</h1>
-
                 <b-card-group deck class="mb-3">
-                  <Canning />
-                  <Clapton />
-                  <Lopes />
-                </b-card-group>
-
-                <b-card-group deck class="mb-3">
-                  <WestHam />
-                  <WesthamWoman />
-                  <Blank />
-                </b-card-group>
-
-                <h1 class="title-color">Redbridge</h1>
-
-                <b-card-group deck class="mb-3">
-                  <Barkingside />
-                  <Frenford />
+                  <Hornchurch />
                   <Ilford />
+                  <Lewisham />
                 </b-card-group>
-
-                <b-card-group deck class="mb-3">
-                  <Newbury />
-                  <Red />
-                  <blank />
-                </b-card-group>
-
-                <h1 class="title-color">Tower Hamlets</h1>
-
-                <b-card-group deck class="mb-3">
-                  <Bengal />
-                  <Tower />
-                  <Blank />
-                </b-card-group>
-
-                <h1 class="title-color">Waltham Forest</h1>
-
                 <b-card-group deck class="mb-3">
                   <Leyton />
                   <Orient />
                   <OrientWoman />
                 </b-card-group>
-
                 <b-card-group deck class="mb-3">
+                  <Lopes />
+                  <May />
+                  <Newbury />
+                </b-card-group>
+                <b-card-group deck class="mb-3">
+                  <Phoenix />
+                  <Red />
+                  <Romford />
+                </b-card-group>
+                <b-card-group deck class="mb-3">
+                  <Bengal />
+                  <Tower />
                   <Walthamstow />
-                  <Blank />
-                  <Blank />
+                </b-card-group>
+                <b-card-group deck class="mb-3">
+                  <Welling />
+                  <WestHam />
+                  <WesthamWoman />
                 </b-card-group>
               </div>
             </div>
           </div>
         </div>
+        <br /><br />
       </b-container>
     </section>
   </Layout>
