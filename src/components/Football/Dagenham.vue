@@ -9,7 +9,7 @@
     <h6>
       
       Dagenham Football Centre<br />
-      138 Manor road<br />
+      138 Manor Road<br />
       Dagenham Essex
 
       <g-link class="labour" to="http://bit.ly/3863055" target="_blank">

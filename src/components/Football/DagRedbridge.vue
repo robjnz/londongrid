@@ -1,9 +1,9 @@
 <template>
   <b-card bg-variant="dark" text-variant="white" title="" align="center">
-    <h2 class="asian">
+    <h3 class="asian">
       <g-image src="~/images/dagred.png" width="50" />
       Dagenham & Redbridge<br />
-    </h2>
+    </h3>
     <h6>
       Chigwell Construction Stadium<br />Victoria Road Dagenham
       <g-link class="labour" to="http://bit.ly/2uz0BC3" target="_blank">

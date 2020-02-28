@@ -1,11 +1,21 @@
 <template>
-<b-card bg-variant="dark" text-variant="white" title= "Hackney Wick F.C." align="center">
-<a href="https://kutt.it/hackney-fc" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1544246630/hackney_wick_fc_cj1n2r.jpg" fluid-grow alt="Hackney Wick F.C."/></a>
-<p class="title-color">
+  <b-card bg-variant="dark" text-variant="white" title="" align="center">
+    <h2 class="asian">
+      <g-image src="~/images/hackney.jpg" width="50" />
+      Hackney Wick<br />
+    </h2>
 
+    <h6>
+      
+     Coles Park Stadium<br /> London
+      <g-link class="labour" to="http://bit.ly/2w5xaIh" target="_blank">
+        N17 7JN
+      </g-link>
+    </h6>
+    <p><br /><br /><br /></p>
 
-  <br>
-
-</p>
-</b-card>
+    <g-link class="labour" to="http://bit.ly/32B17fF" target="_blank">
+      More Info
+    </g-link>
+  </b-card>
 </template>

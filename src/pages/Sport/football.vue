@@ -52,47 +52,43 @@
                 </b-card-group>
                 <b-card-group deck class="mb-3">
                   <Erithtown />
-
                   <Erithbel />
-
-                  <Frenford />
-                </b-card-group>
-                <b-card-group deck class="mb-3">
                   <Forest />
-
-                  <Greenwich />
-
-                  <Hackney />
                 </b-card-group>
                 <b-card-group deck class="mb-3">
+                  <Greenwich />
                   <Hornchurch />
                   <Ilford />
-                  <Lewisham />
-                </b-card-group>
+                  </b-card-group>
                 <b-card-group deck class="mb-3">
+                  <Lewisham />
                   <Leyton />
                   <Orient />
-                  <OrientWoman />
-                </b-card-group>
+                  </b-card-group>
                 <b-card-group deck class="mb-3">
+                  <OrientWoman />
                   <Lopes />
                   <May />
-                  <Newbury />
-                </b-card-group>
+                  </b-card-group>
                 <b-card-group deck class="mb-3">
+                  <Newbury />
                   <Phoenix />
                   <Red />
-                  <Romford />
-                </b-card-group>
+                  </b-card-group>
                 <b-card-group deck class="mb-3">
+                  <Romford />
                   <Bengal />
                   <Tower />
-                  <Walthamstow />
-                </b-card-group>
+                  </b-card-group>
                 <b-card-group deck class="mb-3">
+                  <Walthamstow />
                   <Welling />
                   <WestHam />
+                  </b-card-group>
+                <b-card-group deck class="mb-3">
                   <WesthamWoman />
+                  <Blank />
+                  <Blank />
                 </b-card-group>
               </div>
             </div>

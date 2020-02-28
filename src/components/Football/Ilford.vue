@@ -1,11 +1,29 @@
 <template>
-  <b-card bg-variant="dark" text-variant="white" title= "Ilford F.C." align ="center">
-<a href="https://kutt.it/ilford-fc" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1544893912/ilford_fc_nlgsck.jpg" fluid-grow alt="Ilford F.C."/></a>
-<p class="title-color">
+  <b-card bg-variant="dark" text-variant="white" title="" align="center">
+    <h2 class="asian">
+      <g-image src="~/images/ilford.jpg" width="50" />
+      Ilford<br />
+    </h2>
 
+    <h6>
+      Cricklefield Stadium<br />
+      3 Cricklefield Place<br />
+      Ilford Essex 
 
-  <br>
+      <g-link class="labour" to="http://bit.ly/394xvtp" target="_blank">
+        IG1 1FY
+      </g-link>
+    </h6>
+    <p class="asian">
+      Sat 21 March 2020 @ 3 pm <br />V<br />Sporting Bengal <br />
+      <!--
+      Sat 28 March 2020 @ 3pm <br />V<br />Hadley<br />
+      Sat 18 April 2020 @ 3pm <br />V<br />Saffron Walden<br />
+-->
+    </p>
 
-</p>
-</b-card>
+    <g-link class="labour" to="http://bit.ly/399ayVZ" target="_blank">
+      More Info
+    </g-link>
+  </b-card>
 </template>
