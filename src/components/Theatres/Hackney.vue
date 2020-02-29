@@ -5,8 +5,6 @@
     title        = "Così Fan Tutte"
     align        = "center"
   >
-    <br />
-
     <b-img
       src = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1581153716/cosi_lsnigh.jpg"
       fluid-grow

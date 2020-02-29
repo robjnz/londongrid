@@ -1,6 +1,6 @@
 <template>
   <b-card bg-variant="dark" text-variant="white" title="Macbeth" align="center">
-    <br />
+    
     <b-img
       src = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1581679413/2020-02-14_11_22_11-Window_nrhs9n.jpg"
       fluid-grow

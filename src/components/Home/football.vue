@@ -44,7 +44,7 @@
     </p>
 
     <H4 class="tory">Sun 1 March 2020</H4>
-    <h6>Women's League</h6>
+    <h6 class="pink">Women's League</h6>
     <p>
       <g-image src="~/images/orient.jpg" width="40" />
       Leyton Orient

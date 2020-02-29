@@ -40,6 +40,6 @@
     <g-link class="asian" to="http://bit.ly/38TGbCJ" target="_blank"
       >Review
     </g-link>
-    <g-link to="http://bit.ly/37WqJER" target="_blank"> More Info</g-link>
+    <g-link class="labour" to="http://bit.ly/37WqJER" target="_blank"> More Info</g-link>
   </b-card>
 </template>

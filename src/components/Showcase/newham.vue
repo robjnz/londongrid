@@ -8,19 +8,19 @@
 
     <br /><br />
     <h3 class="asian">
-      Greed
+     Dark Waters
     </h3>
     <b-embed
       type   = "iframe"
       aspect = "16by9"
-      src    = "https://www.youtube.com/embed/S3ZJB1zUY7g"
+      src    = "https://www.youtube.com/embed/jYbNONsH2ck"
       allowfullscreen
     ></b-embed>
     <b-button
       block
       variant = "success"
       v-b-tooltip.hover
-      title = "Set in the glamorous and celebrity-filled world of luxury fashion, Greed is a fictional story about the rise and fall of a British retail mogul, as seen through the eyes of his biographer."
+      title = "Inspired by a shocking true story, a tenacious attorney uncovers a dark secret that connects a growing number of unexplained deaths due to one of the world's largest corporations. In the process, he risks everything – his future, his family, and his own life - to expose the truth."
       >Description Read Me</b-button
     >
     <p class="tory">
@@ -36,10 +36,10 @@
       </span>
     </p>
 
-    <g-link class="asian" to="http://bit.ly/38TGbCJ" target="_blank"
+    <g-link class="asian" to="http://bit.ly/2Taobi2" target="_blank"
       >Review
     </g-link>
-    <g-link to="http://bit.ly/2yCcvds" target="_blank"> More Info</g-link>
+    <g-link class="labour" to="http://bit.ly/2yCcvds" target="_blank"> More Info</g-link>
   </b-card>
 </template>
 

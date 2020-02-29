@@ -7,18 +7,18 @@
     /></g-link>
 
     <br /><br />
-    <h3 class="asian">Dolittle</h3>
+    <h3 class="asian">Dark Waters </h3>
     <b-embed
       type   = "iframe"
       aspect = "16by9"
-      src    = "https://www.youtube.com/embed/jhCs0BJwqMU"
+      src    = "https://www.youtube.com/embed/jYbNONsH2ck"
       allowfullscreen
     ></b-embed>
     <b-button
       block
       variant = "success"
       v-b-tooltip.hover
-      title = "Dolittle After losing his wife seven years earlier, the eccentric Dr. John Dolittle (Downey), famed doctor and veterinarian of Queen Victoria's England, hermits himself away behind the high walls of Dolittle Manor with only his menagerie of exotic animals for company. But when the young queen (Jessie Buckley, Wild Rose) falls gravely ill, a reluctant Dolittle is forced to set sail on an epic adventure to a mythical island in search of a cure."
+      title = "Inspired by a shocking true story, a tenacious attorney uncovers a dark secret that connects a growing number of unexplained deaths due to one of the world's largest corporations. In the process, he risks everything – his future, his family, and his own life - to expose the truth."
       >Description Read Me</b-button
     >
     <p class="tory">
@@ -32,9 +32,9 @@
       0330 333 4444
     </p>
 
-    <g-link class="asian" to="http://bit.ly/2T702rx" target="_blank"
+    <g-link class="asian" to="http://bit.ly/2Taobi2" target="_blank"
       >Review
     </g-link>
-    <g-link to="http://bit.ly/2T1O9D3" target="_blank"> More Info</g-link>
+    <g-link class="labour" to="http://bit.ly/2T1O9D3" target="_blank"> More Info</g-link>
   </b-card>
 </template>

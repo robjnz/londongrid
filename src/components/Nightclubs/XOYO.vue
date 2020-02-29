@@ -19,7 +19,7 @@
        EC2A 4AW
       </g-link>
     </h6>
-    <p class="asian">Fri 28 Feb 2020 @ 8: 00 pm <br />Pleasurehood</p>
+    <p class="asian">Sat 29 Feb 2020 @ 9.30 pm - 4 am <br />Pleasurehood</p>
     <g-link class="labour" to="http://bit.ly/2U4qK37" target="_blank">
       More Info
     </g-link>

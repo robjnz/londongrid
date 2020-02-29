@@ -1,15 +1,15 @@
 <template>
-  <b-card bg-variant="dark" text-variant="white" title="JAZZ INC" align="center"
-    ><br />
+  <b-card bg-variant="dark" text-variant="white" title="Mary Poppins Reappears" align="center">
+  
     <b-img
-      src = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1582639766/jazz_mnsvyc.jpg"
+      src = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1582957572/poppins_spyysw.jpg"
       fluid-grow
-      alt = "Jazz poster"
+      alt = "Mary Poppins Reappears"
     />
 
     <p class="title-color">
       Broadway Theatre Barking<br />
-      Fri 28 Feb 2020 @ 7.30 pm
+      Sun 15 - Sat 28 March 2020
     </p>
     <p class="asian"></p>
     <div class="text-center my-3">
@@ -17,7 +17,7 @@
         block
         variant = "success"
         v-b-tooltip.hover
-        title = "Jazz Inc brings together a community of experienced artists, through unwavering passion, love, and experience they come together for this unmissable monthly live music event in the Broadway’s foyer bar."
+        title = "Mary Poppins a mystical nanny returns to London to save the day in this musical dance show suitable for all."
         >Description Read Me</b-button
       >
     </div>

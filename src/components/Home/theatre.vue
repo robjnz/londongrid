@@ -13,9 +13,9 @@
       <span style="font-size: 1em; color: white;">
         <i class="fas fa-hand-point-right"></i>
       </span>
-      Fri 28 Feb 2020 7.30 pm
+      Sun 15 - Sat 28 March 2020
       <span style="color: #e000e0;">
-        Jazz Inc
+        Mary Poppins Reappears
       </span>
       <g-link to="http://bit.ly/2O857LG" target="_blank"> More Info</g-link>
 
@@ -48,9 +48,10 @@
       <span style="font-size: 1em; color: white;">
         <i class="fas fa-hand-point-right"></i>
       </span>
-      Fri 28 Feb 2020 @ 8 pm
+      Thurs 12 March @ 7 pm
+
       <span style="color: #e000e0;">
-        Ms. Paolini’s Phantasmagoria Cabaret
+        Alfie Templeman
       </span>
       <g-link to="http://bit.ly/2EX7IsG" target="_blank"> More Info</g-link>
 

@@ -13,9 +13,9 @@
       <span style="font-size: 1em; color: white;">
         <i class="fas fa-hand-point-right"></i>
       </span>
-      Fri 28 Feb 2020 @ 10 pm - 4 am
+      Fri 6 March 2020 @ 10 pm - 4 am
       <span style="color: #e000e0;">
-        SCHPUNK
+        Schpunk
       </span>
       <g-link to="http://bit.ly/2V7L97A" target="_blank"> More Info</g-link>
 
@@ -26,9 +26,9 @@
       <span style="font-size: 1em; color: white;">
         <i class="fas fa-hand-point-right"></i>
       </span>
-      Fri 28 Feb 2020 @ 8 pm
+      Sat 29 Feb 2020 @ 10 pm
       <span style="color: #e000e0;">
-        Sumthin Different
+        6 Year Anniversary Party
       </span>
       <g-link to="http://bit.ly/2tAKwYs" target="_blank"> More Info</g-link>
 

@@ -5,7 +5,7 @@
     title        = "Eric & Ern"
     align        = "center"
   >
-    <br /><br />
+    
     <b-img
       src = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1582643779/eric-ern_hpgmb8.jpg"
       fluid-grow

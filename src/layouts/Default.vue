@@ -84,6 +84,9 @@ color: #1A8c97;
 .today{
   color: #FFF5EE;
 }
+.pink{
+  color: #e000e0;
+}
 
 .work-card {
   box-shadow   : 0px 0px 20px rgba(0, 0, 0.1);
@@ -91,10 +94,11 @@ color: #1A8c97;
   border-radius: 0.2rem;
   color        : #00ff7f;
 }
-.left{
-text-align: left,
-color red,
+.film{
+color     : #ff00ff;
+text-align: left;
 }
+
 </style>
 
 

@@ -2,19 +2,19 @@
   <b-card
     bg-variant   = "dark"
     text-variant = "white"
-    title        = "Ms. Paolini’s Phantasmagoria Cabaret"
+    title        = "Alfie Templeman"
     align        = "center"
   >
-    <br />
+    
     <b-img
-      src = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1581154019/phantasmagoria_dicrf1.jpg"
+      src = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1582958314/alfie-templeman_q5whdr.jpg"
       fluid-grow
-      alt = "Ms. Paolini’s Phantasmagoria Cabaret poster"
+      alt = "Alfie Templeman poster"
     />
 
     <p class="title-color">
       Hoxton Hall<br />
-      Fri 28 Feb 2020 @ 8 pm
+      Thu 12 March 2020 @ 7 pm
     </p>
 
     <p class="asian"></p>
@@ -24,7 +24,7 @@
         block
         variant = "success"
         v-b-tooltip.hover
-        title = "Phantasmagoria Cabaret returns to Hoxton Hall for an evening of deconstructed, gender-bending cabaret presented by performance artist, theatre maker and comedian Patrizia Paolini."
+        title = "Alfie writes, sings, produces and plays every single instrument on his first EP, Like An Animal. With lyrics that navigate important topics like the climate emergency, political instability and teen angst."
         >Description Read Me</b-button
       >
     </div>

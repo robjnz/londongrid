@@ -21,13 +21,13 @@
                 <Alert />
                 <b-card-group deck class="mb-3 ">
                   <Emma /><!--Emma-->
+                  <Waters /><!--Deep waters-->
                   <Dolittle /><!--Dolittle-->
-                  <Parasite /><!--Parasite-->
                 </b-card-group>
                 <b-card-group deck class="mb-3 ">
+                  <Parasite /><!--Parasite-->
                   <Sonic /><!--Sonic the Hedgehog-->
                   <Anya /><!--Waiting for Anya-->
-                  <Blank />
                 </b-card-group>
               </div>
             </div>
@@ -50,6 +50,7 @@ import Dolittle from "@/components/Twenty/Dolittle";
 import Emma from "@/components/Twenty/Emma";
 import Sonic from "@/components/Twenty/Sonic";
 import Parasite from "@/components/Twenty/Parasite";
+import Waters from "@/components/Twenty/Waters";
 
 export default {
   metaInfo: {
@@ -71,7 +72,8 @@ export default {
     Dolittle,
     Emma,
     Parasite,
-    Sonic
+    Sonic,
+    Waters
   }
 };
 </script>

@@ -21,7 +21,7 @@ Stratford London
         E15 4BQ
       </g-link>
     </h6>
-    <p class="asian">Fri 28 Feb 2020 @ 8: 00 pm <br />Sumthin Different</p>
+    <p class="asian">Open every night @ 10 pm - 4.30 am<br /></p>
     <g-link class="labour" to="http://bit.ly/2EsnHfH" target="_blank">
       More Info
     </g-link>
