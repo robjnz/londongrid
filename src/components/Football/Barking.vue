@@ -15,7 +15,7 @@
      
     </h6>
     <!-- #barkingfc -->
-    <p class="asian">
+    <p class="football">
       Sat 7 March 2020 @ 3pm<br />V<br />South Park FC <br />
       <!--
   Sat March 21 2020 @ 3pm<br>V<br>Ashford Town (Middx) FC<br>

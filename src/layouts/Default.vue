@@ -87,6 +87,9 @@ color: #1A8c97;
 .pink{
   color: #e000e0;
 }
+.football{
+  color: #ff00ff;
+}
 
 .work-card {
   box-shadow   : 0px 0px 20px rgba(0, 0, 0.1);

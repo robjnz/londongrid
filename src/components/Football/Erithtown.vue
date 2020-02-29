@@ -14,7 +14,7 @@
     </h6>
 
     <!-- ErithTown -->
-    <p class="asian">
+    <p class="football">
       Sat 14 March 2020 @ 3pm <br />V<br />Welling Town<br />
       <!--
 Sat 28 March 2020 @ 3pm <br>V<br>Hollands & Blair<br>

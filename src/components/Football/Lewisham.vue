@@ -1,9 +1,22 @@
 <template>
-  <b-card bg-variant="dark" text-variant="white" title= "Lewisham Borough F.C." align="center">
-<a href="https://kutt.it/lewisham-fc" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1544353027/lewisham_fc_nqgpqn.jpg" fluid-grow alt="Lewisham Borough F.C."/></a>
-<p class="title-color">
+  <b-card bg-variant="dark" text-variant="white" title="" align="center">
+    <h2 class="asian">
+      <g-image src="~/images/lewisham.jpg" width="50" />
+      Lewisham <br />
+    </h2>
 
-<br>
-</p>
-</b-card>
+    <h6>
+      Ladywell Arena<br />
+      Silvermere Road<br />
+      Catford London
+      <g-link class="labour" to="http://bit.ly/2TrGzSA" target="_blank">
+        SE6 4QX
+      </g-link>
+    </h6>
+    <p><br /><br /><br /></p>
+
+    <g-link class="labour" to="http://bit.ly/32EJRGo" target="_blank">
+      More Info
+    </g-link>
+  </b-card>
 </template>

@@ -14,7 +14,7 @@
       </g-link>
     </h6>
 
-    <p class="asian">
+    <p class="football">
       <!-- #erithbelvedere -->
 
       Sat 7 March 2020 <br />V<br />Canterbuty City<br />

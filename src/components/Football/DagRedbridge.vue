@@ -12,7 +12,7 @@
     </h6>
 
     <!--Dag_RedFC-->
-    <p class="asian">
+    <p class="football">
       Sat 29 Feb 2020 @ 3pm<br />V<br />AFC Fylde<br />
       <!--
   Sat 21 March 2020 @ 3pm<br>V<br>Dover Athletic<br>

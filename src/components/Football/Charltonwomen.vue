@@ -14,7 +14,7 @@
       </g-link>
     </h6>
 
-    <p class="asian">
+    <p class="football">
       <!-- #cafc #cafcwomen -->
 
       Sun 22 March 2020 @ 2pm <br />V<br />London Bees <br />

@@ -14,7 +14,7 @@
         IG1 1FY
       </g-link>
     </h6>
-    <p class="asian">
+    <p class="football">
       Sat 21 March 2020 @ 3 pm <br />V<br />Sporting Bengal <br />
       <!--
       Sat 28 March 2020 @ 3pm <br />V<br />Hadley<br />

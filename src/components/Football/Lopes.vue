@@ -1,9 +1,22 @@
 <template>
-  <b-card bg-variant="dark" text-variant="white" title= "Lopes Tavares F.C.‎" align ="center">
-<a href="https://kutt.it/lopes-fc" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1544636794/lopes_fc_dg9rib.png" fluid-grow alt="Lopes Tavares F.C."/></a>
-<p class="title-color">
-<br>
+  <b-card bg-variant="dark" text-variant="white" title="" align="center">
+    <h2 class="asian">
+      <g-image src="~/images/lopes.png" width="50" />
+      Lopes Tavares<br />
+    </h2>
 
-</p>
-</b-card>
+    <h6>
+      Terence Mcmillan Stadium <br />
+      281 Prince Regent Lane<br />London
+
+      <g-link class="labour" to="http://bit.ly/38aNYuP" target="_blank">
+        E13 8SD
+      </g-link>
+    </h6>
+    <p><br /><br /><br /></p>
+
+    <g-link class="labour" to="http://bit.ly/2QxsJ2w" target="_blank">
+      More Info
+    </g-link>
+  </b-card>
 </template>

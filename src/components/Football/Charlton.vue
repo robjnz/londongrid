@@ -14,7 +14,7 @@
     </h6>
 
     <!-- #CAFC -->
-    <p class="asian">
+    <p class="football">
       Sat 7 March 2020 @ 3pm <br />V<br />Middlesbrough<br />
       <!--
 Tues 17 March 2020 @ 7.45pm <br>V<br>Queens Park Rangers<br>

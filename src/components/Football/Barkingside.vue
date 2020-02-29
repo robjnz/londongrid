@@ -14,7 +14,7 @@
       </g-link>
     </h6>
     <!-- #barkingfc -->
-    <p class="asian">
+    <p class="football">
       Mon 2 March 2020 @ 7.45 pm<br />V<br />Holland<br />
       <!--
       Sat 7 March 2020 @ 3 pm <br />V<br />Coggeshhall <br />

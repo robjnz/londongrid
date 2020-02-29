@@ -16,7 +16,7 @@
     </h6>
 
     <!-- HornchurchFC -->
-    <p class="asian">
+    <p class="football">
       Sat 14 March 2020 @ 3pm <br />V<br />Lewes<br />
       <!--
 Sat 21 March 2020 @ 3pm <br>V<br>Worthing<br>

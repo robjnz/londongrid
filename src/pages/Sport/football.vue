@@ -35,7 +35,6 @@
                 <b-card-group deck class="mb-3">
                   <Barking />
                   <Barkingside />
-
                   <Bexley />
                 </b-card-group>
                 <b-card-group deck class="mb-3">
@@ -45,9 +44,7 @@
                 </b-card-group>
                 <b-card-group deck class="mb-3">
                   <Charltonwomen />
-
                   <Dagenham />
-
                   <DagRedbridge />
                 </b-card-group>
                 <b-card-group deck class="mb-3">
@@ -59,36 +56,31 @@
                   <Greenwich />
                   <Hornchurch />
                   <Ilford />
-                  </b-card-group>
+                </b-card-group>
                 <b-card-group deck class="mb-3">
                   <Lewisham />
-                  <Leyton />
                   <Orient />
-                  </b-card-group>
-                <b-card-group deck class="mb-3">
                   <OrientWoman />
+                </b-card-group>
+                <b-card-group deck class="mb-3">
                   <Lopes />
                   <May />
-                  </b-card-group>
-                <b-card-group deck class="mb-3">
                   <Newbury />
+                </b-card-group>
+                <b-card-group deck class="mb-3">
                   <Phoenix />
                   <Red />
-                  </b-card-group>
-                <b-card-group deck class="mb-3">
                   <Romford />
+                </b-card-group>
+                <b-card-group deck class="mb-3">
                   <Bengal />
                   <Tower />
-                  </b-card-group>
-                <b-card-group deck class="mb-3">
                   <Walthamstow />
+                </b-card-group>
+                <b-card-group deck class="mb-3">
                   <Welling />
                   <WestHam />
-                  </b-card-group>
-                <b-card-group deck class="mb-3">
                   <WesthamWoman />
-                  <Blank />
-                  <Blank />
                 </b-card-group>
               </div>
             </div>

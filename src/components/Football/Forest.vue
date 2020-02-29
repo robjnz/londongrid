@@ -14,7 +14,7 @@
         SE6 4QX
       </g-link>
     </h6>
-    <p class="asian">
+    <p class="football">
       Sat 21 March 2020 @ 3pm <br />V<br />Kennington<br />
       <!--
       Sat 11 april 2020 @ 3 pm <br />Sporting Club Thamesmead<br />
