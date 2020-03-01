@@ -1,9 +1,9 @@
 <template>
   <b-card bg-variant="dark" text-variant="white" title="" align="center">
-    <h2 class="asian">
+    <h3 class="asian">
       <g-image src="~/images/barking.jpg" width="50" />
       Barking<br />
-    </h2>
+    </h3>
 
     <!--
 <a href="https://kutt.it/barking-fc" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1543743135/barking_fc_mfqpl9.jpg" fluid-grow alt="Barking FC"/></a>

@@ -1,9 +1,9 @@
 <template>
   <b-card bg-variant="dark" text-variant="white" title="" align="center">
-    <h2 class="asian">
+    <h3 class="asian">
       <g-image src="~/images/charlton.png" width="50" />
       Charlton <br />
-    </h2>
+    </h3>
 
     <h6>
       The Valley<br />Floyd Road Charlton <br />London

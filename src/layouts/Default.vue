@@ -88,7 +88,7 @@ color: #1A8c97;
   color: #e000e0;
 }
 .football{
-  color: #ff00ff;
+  color: #00e0e0;
 }
 
 .work-card {

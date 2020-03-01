@@ -5,12 +5,8 @@
 <h6>Oakside Stadium<br>Station Road Barkingside Essex IG6 1NB</h6>
 <p class="asian">
 <!-- #FcRedbridge #TheMotormen -->
-
-
-
-Sat 29 Feb 2020 @ 3pm <br>V<br> Sporting Bengal United<br>
-<!--
 Sat 7 March 2020 @ 3pm <br>V<br>Sawbridgeworth Town<br>
+<!--
 Sat 18 April 2020 @ 3pm <br>V<br>Southend Manor<br>
 Sat 25 April 2020 @ 3pm <br>v<br>West Essex<br>
 

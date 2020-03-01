@@ -1,9 +1,9 @@
 <template>
   <b-card bg-variant="dark" text-variant="white" title="" align="center">
-    <h2 class="asian">
+    <h3 class="asian">
       <g-image src="~/images/orient.jpg" width="50" />
       Leyton Orient<br />
-    </h2>
+    </h3>
     <h5 class="tory">Woman Team</h5>
 
     <h6>

@@ -13,9 +13,9 @@
 
     <!--Dag_RedFC-->
     <p class="football">
-      Sat 29 Feb 2020 @ 3pm<br />V<br />AFC Fylde<br />
-      <!--
+     
   Sat 21 March 2020 @ 3pm<br>V<br>Dover Athletic<br>
+  <!--
   Sat 4 April 2020 @ 3pm<br>V<br>Halifax Town<br>
   Mon 13 April 2020 @ 3pm<br>V<br>Eastleigh<br>
   Sat 25 April 2020 @ 5.20pm<br>V<br>Chesterfield<br>

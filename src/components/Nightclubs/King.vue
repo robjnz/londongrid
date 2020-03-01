@@ -20,7 +20,7 @@
         IG11 8ET
       </g-link>
     </h6>
-    <p class="asian">Sat 29 Feb 2020 <br />Flawless</p>
+    <p class="asian">Sat 23 May 2020 @ 10 pm - 4.30 am<br />Rugbys 7s</p>
     <g-link class="labour" to="http://bit.ly/2Ns7jis" target="_blank">
       More Info
     </g-link>

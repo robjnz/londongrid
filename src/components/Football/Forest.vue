@@ -1,9 +1,9 @@
 <template>
   <b-card bg-variant="dark" text-variant="white" title="" align="center">
-    <h2 class="asian">
+    <h3 class="asian">
       <g-image src="~/images/forest.jpg" width="50" />
       Forest Hill Park<br />
-    </h2>
+    </h3>
 
     <h6>
       Ladywell Arena<br />

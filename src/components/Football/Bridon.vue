@@ -1,9 +1,9 @@
 <template>
   <b-card bg-variant="dark" text-variant="white" title="" align="center">
-    <h2 class="asian">
+    <h3 class="asian">
       <g-image src="~/images/bridon.jpg" width="50" />
       Bridon Ropes<br />
-    </h2>
+    </h3>
 
     <h6>
       Meridian Sports<br />

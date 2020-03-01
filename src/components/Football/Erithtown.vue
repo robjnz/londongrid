@@ -1,9 +1,9 @@
 <template>
   <b-card bg-variant="dark" text-variant="white" title="" align="center">
-    <h2 class="asian">
+    <h3 class="asian">
       <g-image src="~/images/erith.jpg" width="50" />
       Erith Town<br />
-    </h2>
+    </h3>
 
     <h6>
       Erith Stadium <br />Erith Avenue Road <br />Erith Kent

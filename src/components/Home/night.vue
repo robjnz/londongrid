@@ -26,9 +26,9 @@
       <span style="font-size: 1em; color: white;">
         <i class="fas fa-hand-point-right"></i>
       </span>
-      Sat 29 Feb 2020 @ 10 pm
+      
       <span style="color: #e000e0;">
-        6 Year Anniversary Party
+        
       </span>
       <g-link to="http://bit.ly/2tAKwYs" target="_blank"> More Info</g-link>
 
@@ -50,9 +50,9 @@
       <span style="font-size: 1em; color: white;">
         <i class="fas fa-hand-point-right"></i>
       </span>
-      Sat 29 Feb 2020
+      Sat 23 May 2020 @ 10 pm - 4.30 am
       <span style="color: #e000e0;">
-        Flawless
+        Rugbys 7s
       </span>
       <g-link to="http://bit.ly/2Ns7jis" target="_blank"> More Info</g-link>
 
@@ -63,9 +63,9 @@
       <span style="font-size: 1em; color: white;">
         <i class="fas fa-hand-point-right"></i>
       </span>
-      Sat 29 Feb 2020 @ 9.30 pm to 4 am
+      Fri 6 March 21.30 pm - 4 am
       <span style="color: #e000e0;">
-        Pleasurehood
+        Dusky
       </span>
       <g-link to="http://bit.ly/2U4qK37" target="_blank"> More Info</g-link>
 

@@ -20,7 +20,7 @@
         E17 9QD
       </g-link>
     </h6>
-    <p class="asian">Sat 29 Feb 2020 @ 10 pm <br /> 6 Year Anniversary Party</p>
+    <p class="asian"> <br /> </p>
     <g-link class="labour" to="http://bit.ly/2tAKwYs" target="_blank">
       More Info
     </g-link>

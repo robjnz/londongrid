@@ -1,9 +1,9 @@
 <template>
   <b-card bg-variant="dark" text-variant="white" title= "" align="center">
-     <h2 class="asian">
+     <h3 class="asian">
       <g-image src="~/images/bexley.jpg" width="50" />
       Bexley<br />
-    </h2>
+    </h3>
 
     <h6>
       Metrogas <br />40 Foot Way Avery Hill Road<br />Eltham London 

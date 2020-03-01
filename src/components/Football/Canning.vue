@@ -1,9 +1,9 @@
 <template>
   <b-card bg-variant="dark" text-variant="white" title= "" align = "center">
-    <h2 class="asian">
+    <h3 class="asian">
       <g-image src="~/images/canning.jpg" width="50" />
       Canning Town<br />
-    </h2>
+    </h3>
 
     <h6>
       West Ham Foundation<br /> 60A Albastross Close East Ham <br />London 
