@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{199:function(t,n,e){"use strict";e.r(n);var i=e(15),r=Object(i.a)({},(function(){var t=this.$createElement;return(this._self._c||t)("b-button",{attrs:{href:"/Ent/eighteen",variant:"info"}},[this._v("2018")])}),[],!1,null,null,null);n.default=r.exports}}]);

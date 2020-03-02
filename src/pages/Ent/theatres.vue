@@ -8,8 +8,7 @@
           </span>
           Theatres
         </h1>
-        <h2 class="tory">February 2020</h2>
-        <br />
+       <date />
         <div class="port container" id="works">
           <div class="row">
             <div class="work col-md-12">
@@ -50,6 +49,8 @@ import Ilford from "@/components/Theatres/Ilford";
 import Stratford from "@/components/Theatres/Stratford";
 import Two from "@/components/Theatres/Two";
 import Yard from "@/components/Theatres/Yard";
+import date from "@/components/Home/date";
+
 
 export default {
   metaInfo: {
@@ -71,7 +72,8 @@ export default {
     Ilford,
     Stratford,
     Two,
-    Yard
+    Yard,
+    date,
   }
 };
 </script>

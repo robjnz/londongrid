@@ -8,6 +8,7 @@
           </span>
           Home Matches
         </h1>
+        <date />
         <br />
         <div class="port container" id="works">
           <div class="row">
@@ -69,18 +70,23 @@
                 </b-card-group>
                 <b-card-group deck class="mb-3">
                   <Phoenix />
+                  <PhoenixWomans />
                   <Red />
-                  <Romford />
                 </b-card-group>
                 <b-card-group deck class="mb-3">
+                  <Romford />
                   <Bengal />
                   <Tower />
-                  <Walthamstow />
                 </b-card-group>
                 <b-card-group deck class="mb-3">
+                  <Walthamstow />
                   <Welling />
                   <WestHam />
+                </b-card-group>
+                <b-card-group deck class="mb-3">
                   <WesthamWoman />
+                  <Blank />
+                  <Blank />
                 </b-card-group>
               </div>
             </div>
@@ -100,6 +106,7 @@ import Erithbel from "@/components/Football/Erithbel";
 import Dagenham from "@/components/Football/Dagenham";
 import Bexley from "@/components/Football/Bexley";
 import Phoenix from "@/components/Football/Phoenix";
+import PhoenixWomans from "@/components/Football/PhoenixWomans";
 import Welling from "@/components/Football/Welling";
 import Blank from "@/components/Football/Blank";
 import Bridon from "@/components/Football/Bridon";
@@ -128,6 +135,7 @@ import Leyton from "@/components/Football/Leyton";
 import OrientWoman from "@/components/Football/OrientWoman";
 import Orient from "@/components/Football/Orient";
 import Walthamstow from "@/components/Football/Walthamstow";
+import date from "@/components/Home/date";
 
 export default {
   metaInfo: {
@@ -175,7 +183,9 @@ export default {
     Leyton,
     OrientWoman,
     Orient,
-    Walthamstow
+    Walthamstow,
+    PhoenixWomans,
+    date
   }
 };
 </script>

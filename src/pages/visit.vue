@@ -61,20 +61,8 @@
                     </b-card-group>
 
                     <b-card-group deck class="mb-3">
-                      <b-card
-                        bg-variant   = "dark"
-                        text-variant = "white"
-                        title        = "Valence House Museum"
-                      >
-                        <g-link
-                          href   = "https://kutt.it/valencehouse"
-                          target = "_blank"
-                          ><b-img
-                            src = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1516808274/Valence_kgjaez.jpg"
-                            fluid-grow
-                            alt = "Valence House Museum"
-                        /></g-link>
-                      </b-card>
+                      <valence />
+                     
 
                       <b-card bg-variant="dark" text-variant="white" title="">
                       </b-card>
@@ -516,21 +504,7 @@
                             alt = "Hospital Chapel Ilford"
                         /></g-link>
                       </b-card>
-
-                      <b-card
-                        bg-variant   = "dark"
-                        text-variant = "white"
-                        title        = "Valentines Mansion & Park"
-                      >
-                        <g-link
-                          href   = "https://kutt.it/valentines"
-                          target = "_blank"
-                          ><b-img
-                            src = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1513623135/valman_oxte6t.jpg"
-                            fluid-grow
-                            alt = "Valentines Mansion & Park Ilford"
-                        /></g-link>
-                      </b-card>
+                      <valentines />
                     </b-card-group>
 
                     <b-card-group deck class="mb-3">
@@ -731,12 +705,16 @@
             </div>
           </div>
         </b-row>
+        <br /><br />
       </b-container>
     </section>
   </Layout>
 </template>
 
 <script>
+import valence from "@/components/Visit/valence";
+import valentines from "@/components/Visit/valentines";
+
 export default {
   metaInfo: {
     title: "Visit",
@@ -746,6 +724,10 @@ export default {
         content: "Places of historical interest, to visit in east London ."
       }
     ]
+  },
+  components: {
+    valence,
+    valentines
   }
 };
 </script>

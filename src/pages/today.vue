@@ -8,7 +8,7 @@
           </span>
           This Months Events 
         </h1>
-        <h2 class="tory">March 2020</h2>
+        <date />
         <br />
 
         <on /><br />
@@ -35,6 +35,8 @@
 
 <script>
 import on from "@/components/Home/on";
+import date from "@/components/Home/date";
+
 
 export default {
   metaInfo: {
@@ -47,7 +49,8 @@ export default {
     ]
   },
   components: {
-    on
+    on,
+    date,
   }
 };
 </script>

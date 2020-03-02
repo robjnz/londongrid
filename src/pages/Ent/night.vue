@@ -8,8 +8,7 @@
           </span>
           Nightclubs
         </h1>
-        <h2 class="tory">March 2020</h2>
-        <br />
+        <date />
         <div class="port container" id="works">
           <div class="row">
             <div class="work col-md-12">
@@ -42,6 +41,8 @@ import Faces from "@/components/Nightclubs/Faces";
 import Jhankaar from "@/components/Nightclubs/Jhankaar";
 import King from "@/components/Nightclubs/King";
 import XOYO from "@/components/Nightclubs/XOYO";
+import date from "@/components/Home/date";
+
 
 export default {
   metaInfo: {
@@ -60,7 +61,8 @@ export default {
     Faces,
     Jhankaar,
     King,
-    XOYO
+    XOYO,
+    date,
   }
 };
 </script>

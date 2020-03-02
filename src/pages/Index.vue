@@ -2,7 +2,7 @@
   <Layout>
     <b-container class="container">
       <h1 class="asian">What on in East London</h1>
-      <h3 class="tory">March 2020</h3>
+      <date />
       <div class="port container" id="works">
         <div class="row">
           <div class="work col-md-12">
@@ -43,6 +43,8 @@ import on from "@/components/Home/on";
 import film from "@/components/Home/film";
 import theatre from "@/components/Home/theatre";
 import night from "@/components/Home/night";
+import date from "@/components/Home/date";
+
 
 export default {
   metaInfo: {
@@ -68,7 +70,8 @@ export default {
     on,
     film,
     theatre,
-    night
+    night,
+    date,
   }
 };
 </script>
