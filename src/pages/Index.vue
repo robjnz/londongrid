@@ -1,13 +1,13 @@
 <template>
   <Layout>
     <b-container class="container">
-      <h1 class="asian">What on in East London February 2020</h1>
-
+      <h1 class="asian">What on in East London</h1>
+      <h3 class="tory">March 2020</h3>
       <div class="port container" id="works">
         <div class="row">
           <div class="work col-md-12">
             <on />
-            
+
             <br />
             <theatre />
             <br />
@@ -22,7 +22,6 @@
       <div class="port container" id="works">
         <div class="row">
           <div class="work col-md-6">
-            
             <football />
           </div>
 
@@ -44,7 +43,6 @@ import on from "@/components/Home/on";
 import film from "@/components/Home/film";
 import theatre from "@/components/Home/theatre";
 import night from "@/components/Home/night";
-
 
 export default {
   metaInfo: {
@@ -70,7 +68,7 @@ export default {
     on,
     film,
     theatre,
-    night,
+    night
   }
 };
 </script>

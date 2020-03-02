@@ -6,9 +6,9 @@
           <span style="font-size: 1em; color: Dodgerblue;">
             <i class="far fa-calendar-alt"></i>
           </span>
-          This months events in East London
+          This Months Events 
         </h1>
-        <h2 class="tory">February 2020</h2>
+        <h2 class="tory">March 2020</h2>
         <br />
 
         <on /><br />
@@ -42,7 +42,7 @@ export default {
     meta : [
       {
         name   : "description",
-        content: "This months events in east London February 2020."
+        content: "This months events in east London March 2020."
       }
     ]
   },

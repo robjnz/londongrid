@@ -100,8 +100,8 @@
         <i class="fas fa-hand-point-right"></i>
       </span>
 
-      Sat 29 Feb 2020 @ 6.30 pm
-      <span style="color: #e000e0;"> The Script </span>
+      Sat 7 Mar 2020 @ 6.30 pm
+      <span style="color: #e000e0;">  Michael Ball & Alfie Boe </span>
       <g-link to="http://bit.ly/2PpXswU" target="_blank"> More Info</g-link>
 
       <br /><!--The Yard Hackney-->

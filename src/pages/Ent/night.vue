@@ -8,7 +8,7 @@
           </span>
           Nightclubs
         </h1>
-        <h2 class="tory">February 2020</h2>
+        <h2 class="tory">March 2020</h2>
         <br />
         <div class="port container" id="works">
           <div class="row">
@@ -50,7 +50,7 @@ export default {
       {
         name   : "description",
         content: 
-          "Whats on in the east London night clubs this month, February 2020."
+          "Whats on in the east London night clubs this month, March 2020."
       }
     ]
   },
