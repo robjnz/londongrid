@@ -74,8 +74,9 @@
       <span style="font-size: 1em; color: white;">
         <i class="fas fa-hand-point-right"></i>
       </span>
-      Mon 2 Mar 2020 @ 7.30 pm
-      <span style="color: #e000e0;"> Eric & Ern </span>
+      Fri 13 – Sat 28 March 2020
+      
+      <span style="color: #e000e0;"> Maggie May </span>
       <g-link to="http://bit.ly/2Soh3MB" target="_blank"> More Info</g-link>
 
       <br />

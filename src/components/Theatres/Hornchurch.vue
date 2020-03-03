@@ -1,29 +1,30 @@
 <template>
-  <b-card
-    bg-variant   = "dark"
-    text-variant = "white"
-    title        = "Eric & Ern"
-    align        = "center"
-  >
-    
+  <b-card bg-variant="dark" text-variant="white" title="" align="center">
+    <h3 class="asian">Queen's Theatre Hornchurch<br /></h3>
     <b-img
-      src = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1582643779/eric-ern_hpgmb8.jpg"
+      src = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1583263233/maggie_xjqboy.jpg"
       fluid-grow
-      alt = "eric & ern poster"
+      alt = "Maggie May poster"
     />
 
-    <p class="title-color">
-      Queen's Theatre Hornchurch<br />
-      Mon 2 March 2020 @ 7.30 pm
+    <p>
+      Billet Lane<br />
+      Hornchurch Essex
+      <g-link class="labour" to="http://bit.ly/2TygFwt" target="_blank">
+        RM11 1QT
+      </g-link>
     </p>
-
+    <h3 class="football">Maggie May</h3>
+    <p class="football">
+      Fri 13 – Sat 28 March 2020
+    </p>
     <p class="asian"></p>
     <div class="text-center my-3">
       <b-button
         block
         variant = "success"
         v-b-tooltip.hover
-        title = "Eric and Ern is a brilliant homage to Morecambe and Wise crammed full of those famous comedy sketches, from Grieg’s Piano concerto, Mr Memory… ‘Arsenal’ to the paper bag trick!."
+        title = "Maggie and Gordon first met in 1971 dancing to the sound of Rod Stewart. Now in their sixties, and still very much in love, they’ve been finishing each other’s songs all their sun-shiny marriage."
         >Description Read Me</b-button
       >
     </div>

@@ -1,9 +1,35 @@
 <template>
-  <b-card bg-variant="dark" text-variant="white" title= "Romford F.C." align="center">
-<a href="https://kutt.it/romford-fc" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1544248384/romford_fc_pq6f9t.jpg" fluid-grow alt="Romford F.C."/></a>
-<p class="title-color">
-<br>
+  <b-card bg-variant="dark" text-variant="white" title="" align="center">
+    <h3 class="asian">
+      <g-image src="~/images/romford.jpg" width="50" />
+      Romford<br />
+    </h3>
 
-</p>
-</b-card>
+    <h6>
+      The Brentwood Centre<br />
+      Doddinghurst Road<br />
+      Brentwood Essex
+
+      <g-link class="labour" to="http://bit.ly/2uPdkAK" target="_blank">
+        CM15 9NN
+      </g-link>
+    </h6>
+    <p class="football">
+      Wed 11 March 2020 @ 19.45 pm <br />V<br />Tilbury<br />
+      <!--
+      Sat 16 March 2020 @ 3 pm <br />v<br />Heyridge Swifts<br />
+      Wed 25 March 2020 @ 19.45 pm Maldon & Tiptree<br />
+      Sat 28 March 2020 @ 3 pm <br />V<br />Cambridge City<br />
+      Sat 11 April 2020 @ 3pm <br />V<br />Basildon United<br />
+      Sat 18 April 2020 @3 pm <br />V<br />Derham Town<br />
+
+      
+
+-->
+    </p>
+
+    <g-link class="labour" to="http://bit.ly/2vqW856" target="_blank">
+      More Info
+    </g-link>
+  </b-card>
 </template>

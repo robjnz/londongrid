@@ -75,19 +75,14 @@
                 </b-card-group>
                 <b-card-group deck class="mb-3">
                   <Romford />
-                  <Bengal />
                   <Tower />
-                </b-card-group>
-                <b-card-group deck class="mb-3">
                   <Walthamstow />
+                   </b-card-group>
+                <b-card-group deck class="mb-3">
                   <Welling />
                   <WestHam />
-                </b-card-group>
-                <b-card-group deck class="mb-3">
                   <WesthamWoman />
-                  <Blank />
-                  <Blank />
-                </b-card-group>
+                   </b-card-group>
               </div>
             </div>
           </div>
