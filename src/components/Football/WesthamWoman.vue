@@ -1,18 +1,29 @@
 <template>
-  <b-card bg-variant="dark" text-variant="white" title= "West Ham United F.C.‎" align ="center">
-<a href="http://bit.ly/35bnR5P" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1544636784/west_ham_fc_wrookz.png" fluid-grow alt="West Ham United F.C.‎"/></a>
-<h5>Woman Team</h5>
-<h6>Rush Green Training Ground<br> Rush Green Road RM7 0LU</h6>
-<!-- westhamwomen WHUFC -->
-<p class="asian">
+  <b-card bg-variant="dark" text-variant="white" title="" align="center">
+    <h3 class="asian">
+      <g-image src="~/images/west_ham.png" width="50" />
+      West Ham<br />
+    </h3>
+    <h5 class="tory">Woman Team</h5>
 
+    <h6>
+      Rush Green Training Ground<br />
+      Rush Green Road<br />Romford Essex
 
-Sun 29 March 2020 @ 3pm <br>V<br>Arsenal<br>
-<!--
+      <g-link class="labour" to="http://bit.ly/38j6sZZ" target="_blank">
+        RM7 0LU
+      </g-link>
+    </h6>
+
+    <!-- westhamwomen WHUFC -->
+    <p class="football">
+      Sun 29 March 2020 @ 3pm <br />V<br />Arsenal<br />
+      <!--
 Sat 16 May 2020 @ 3pm <br>V<br>Bristol City<br>
 -->
-</p>
-    <b-button href="http://bit.ly/35bnR5P" target="_blank" variant="info">open</b-button>
-
-</b-card>
+    </p>
+    <g-link class="labour" to="http://bit.ly/35bnR5P" target="_blank">
+      More Info
+    </g-link>
+  </b-card>
 </template>

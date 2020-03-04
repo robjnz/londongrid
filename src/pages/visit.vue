@@ -13,293 +13,45 @@
             <div class="row">
               <div class="work col-md-12">
                 <div class="work-card">
-                  <h3 class="asian">Barking & Dagenham</h3>
                   <div>
                     <b-card-group deck class="mb-3">
-                      <b-card
-                        bg-variant   = "dark"
-                        text-variant = "white"
-                        title        = "Eastbury Manor House"
-                      >
-                        <g-link
-                          href   = "https://kutt.it/eastbury-manor"
-                          target = "_blank"
-                          ><b-img
-                            src = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1516812522/Eastbury_xxxgfz.jpg"
-                            fluid-grow
-                            alt = "Eastbury Manor House"
-                        /></g-link>
-                      </b-card>
-
-                      <b-card
-                        bg-variant   = "dark"
-                        text-variant = "white"
-                        title        = "Mayesbrook Park"
-                      >
-                        <g-link
-                          href   = "https://kutt.it/mayesbrook"
-                          target = "_blank"
-                          ><b-img
-                            src = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1516810937/Mayesbrook_l8iqr1.jpg"
-                            fluid-grow
-                            alt = "Mayesbrook Park"
-                        /></g-link>
-                      </b-card>
-
-                      <b-card
-                        bg-variant   = "dark"
-                        text-variant = "white"
-                        title        = "St. Margaret of Antioch"
-                      >
-                        <g-link href="" target="_blank"
-                          ><b-img
-                            src = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1516812153/St-Margaret_o8s4gb.jpg"
-                            fluid-grow
-                            alt = "St. Margaret of Antioch"
-                        /></g-link>
-                      </b-card>
-                    </b-card-group>
-
-                    <b-card-group deck class="mb-3">
-                      <valence />
-                     
-
-                      <b-card bg-variant="dark" text-variant="white" title="">
-                      </b-card>
-
-                      <b-card bg-variant="dark" text-variant="white" title="">
-                      </b-card>
-                    </b-card-group>
-
-                    <h3 class="asian">Bexley</h3>
-
-                    <b-card-group deck class="mb-3">
-                      <b-card
-                        bg-variant   = "dark"
-                        text-variant = "white"
-                        title        = "Bexley Park Wood"
-                      >
-                        <g-link
-                          href   = "https://kutt.it/bexley-park"
-                          target = "_blank"
-                          ><b-img
-                            src = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1516983220/bexleywoods_gx6k1u.jpg"
-                            fluid-grow
-                            alt = "Bexley Park Wood"
-                        /></g-link>
-                      </b-card>
-
-                      <b-card
-                        bg-variant   = "dark"
-                        text-variant = "white"
-                        title        = "Hall Place & Gardens"
-                      >
-                        <g-link href="https://kutt.it/hallplace" target="_blank"
-                          ><b-img
-                            src = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1516981696/hallplace_nyzmz9.jpg"
-                            fluid-grow
-                            alt = "Hall Place & Gardens"
-                        /></g-link>
-                      </b-card>
-
-                      <b-card
-                        bg-variant   = "dark"
-                        text-variant = "white"
-                        title        = "Danson House"
-                      >
-                        <g-link
-                          href   = "https://kutt.it/dansonhouse"
-                          target = "_blank"
-                          ><b-img
-                            src = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1516982336/damson_gmq5q2.jpg"
-                            fluid-grow
-                            alt = "Danson House"
-                        /></g-link>
-                      </b-card>
-                    </b-card-group>
-
-                    <b-card-group deck class="mb-3">
-                      <b-card
-                        bg-variant   = "dark"
-                        text-variant = "white"
-                        title        = "Red House"
-                      >
-                        <g-link href="https://kutt.it/redhouse" target="_blank"
-                          ><b-img
-                            src = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1516982711/redhouse_b8ufux.jpg"
-                            fluid-grow
-                            alt = "Red House"
-                        /></g-link>
-                      </b-card>
-
-                      <b-card bg-variant="dark" text-variant="white" title="">
-                      </b-card>
-
-                      <b-card bg-variant="dark" text-variant="white" title="">
-                      </b-card>
-                    </b-card-group>
-                    <h3 class="asian">Greenwich</h3>
-                    <b-card-group deck class="mb-3">
-                      <b-card
-                        bg-variant   = "dark"
-                        text-variant = "white"
-                        title        = "Eltham Palace"
-                      >
-                        <g-link
-                          href   = "https://kutt.it/elthamplace"
-                          target = "_blank"
-                          ><b-img
-                            src = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1522943038/Eltham_Palace_au062d.jpg"
-                            fluid-grow
-                            alt = "Eltham Palace"
-                        /></g-link>
-                      </b-card>
-
-                      <b-card
-                        bg-variant   = "dark"
-                        text-variant = "white"
-                        title        = "Ranger’s House"
-                      >
-                        <g-link
-                          href   = "https://kutt.it/rangershouse"
-                          target = "_blank"
-                          ><b-img
-                            src = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1522943311/Ranger_s_House_yior1q.jpg"
-                            fluid-grow
-                            alt = "Ranger’s House"
-                        /></g-link>
-                      </b-card>
-
-                      <b-card
-                        bg-variant   = "dark"
-                        text-variant = "white"
-                        title        = "Royal Museums Greenwich"
-                      >
-                        <g-link
-                          href   = "https://kutt.it/royalgreenwich"
-                          target = "_blank"
-                          ><b-img
-                            src = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1516616360/Cutty_izpwlz.jpg"
-                            fluid-grow
-                            alt = "Royal Museums Greenwich"
-                        /></g-link>
-                      </b-card>
+                      <bexley /><!--Bexley Park Wood-->
+                      <danson /><!--Danson House-->
+                      <eastbury /><!--Eastbury Manor House-->
                     </b-card-group>
                     <b-card-group deck class="mb-3">
-                      <b-card
-                        bg-variant   = "dark"
-                        text-variant = "white"
-                        title        = "Severndroog Castle"
-                      >
-                        <g-link
-                          href   = "https://kutt.it/severndroogcastle"
-                          target = "_blank"
-                          ><b-img
-                            src = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1522943702/Severndroog_Castle_fpdzow.jpg"
-                            fluid-grow
-                            alt = "Severndroog Castle"
-                        /></g-link>
-                      </b-card>
-
-                      <b-card
-                        bg-variant   = "dark"
-                        text-variant = "white"
-                        title        = "Thames Barrier"
-                      >
-                        <g-link
-                          href   = "https://kutt.it/thames-barrier"
-                          target = "_blank"
-                          ><b-img
-                            src = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1522942608/thames_hpxd4i.jpg"
-                            fluid-grow
-                            alt = "Thames Barrier"
-                        /></g-link>
-                      </b-card>
-
-                      <b-card bg-variant="dark" text-variant="white" title="">
-                      </b-card>
-                    </b-card-group>
-
-                    <h3 class="asian">Hackney</h3>
-
+                      <eltham /><!--Eltham place-->
+                      <geffrye /><!--Geffrye Museum-->
+                      <hackney /><!--hackney city farm -->
+                      </b-card-group>
                     <b-card-group deck class="mb-3">
-                      <b-card
-                        bg-variant   = "dark"
-                        text-variant = "white"
-                        title        = "Geffrye Museum"
-                      >
-                        <g-link href="https://kutt.it/geffrye" target="_blank"
-                          ><b-img
-                            src = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1519142135/geffrye_tkoekn.jpg"
-                            fluid-grow
-                            alt = "Geffrye Museum"
-                        /></g-link>
-                      </b-card>
-
-                      <b-card
-                        bg-variant   = "dark"
-                        text-variant = "white"
-                        title        = "Hackney City Farm"
-                      >
-                        <g-link
-                          href   = "https://kutt.it/hackney-farm"
-                          target = "_blank"
-                          ><b-img
-                            src = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1519143040/cityfarm_p7qcbs.jpg"
-                            fluid-grow
-                            alt = "Hackney City Farm"
-                        /></g-link>
-                      </b-card>
-
-                      <b-card
-                        bg-variant   = "dark"
-                        text-variant = "white"
-                        title        = "Sutton House"
-                      >
-                        <g-link
-                          href   = "https://kutt.it/sutton-house"
-                          target = "_blank"
-                          ><b-img
-                            src = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1544949554/sutton_house_v9gjpk.jpg"
-                            fluid-grow
-                            alt = "Sutton House"
-                        /></g-link>
-                      </b-card>
-                    </b-card-group>
-
+                      <hall /><!--Hall Place & Gardens-->
+                      <mayesbrook /><!--Mayesbrook Park-->
+                      <ranger /><!--Ranger House-->
+                      </b-card-group>
                     <b-card-group deck class="mb-3">
-                      <b-card
-                        bg-variant   = "dark"
-                        text-variant = "white"
-                        title        = "Victoria Park"
-                      >
-                        <g-link href="http://bit.ly/2NA06v5" target="_blank"
-                          ><b-img
-                            src = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1519143381/victoriapark_rz0are.jpg"
-                            fluid-grow
-                            alt = "Victoria Park"
-                        /></g-link>
-                      </b-card>
-
-                      <b-card
-                        bg-variant   = "dark"
-                        text-variant = "white"
-                        title        = "Viktor Wyne Museum"
-                      >
-                        <g-link
-                          href   = "https://kutt.it/viktor-hackney"
-                          target = "_blank"
-                          ><b-img
-                            src = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1519142785/victor_x9wwlg.jpg"
-                            fluid-grow
-                            alt = "Viktor Wyne Museum"
-                        /></g-link>
-                      </b-card>
-
-                      <b-card bg-variant="dark" text-variant="white" title="">
-                      </b-card>
+                      <red /><!--Red House-->
+                      <greenwich /><!--Royal Museums Greenwich-->
+                      <severndroog /><!--Severndroog Castle-->
+                      </b-card-group>
+                    <b-card-group deck class="mb-3">
+                      <antioch /><!--St. Margaret of Antioch-->
+                       <sutton /><!---Sutton House-->
+                      <thames /><!--Thames Barrier-->
+                      </b-card-group>
+                    <b-card-group deck class="mb-3">
+                      <valence /><!--Valence House Museum-->
+                      <victoria /><!--victoria park-->
+                      <viktor /><!--Viktor Wyne Museum-->
                     </b-card-group>
-                    <h3 class="asian">Havering</h3>
+                  
+                  
+                    
+              
+
+                  
+
+                    
 
                     <b-card-group deck class="mb-3">
                       <b-card
@@ -712,8 +464,33 @@
 </template>
 
 <script>
+import antioch from "@/components/Visit/antioch";
+import bexley from "@/components/Visit/bexley";
+import danson from "@/components/Visit/danson";
+
+import eastbury from "@/components/Visit/eastbury";
+import eltham from "@/components/Visit/eltham";
+import greenwich from "@/components/Visit/greenwich";
+import geffrye from "@/components/Visit/geffrye";
+import hackney from "@/components/Visit/hackney";
+
+import hall from "@/components/Visit/hall";
+
+import mayesbrook from "@/components/Visit/mayesbrook";
+import ranger from "@/components/Visit/ranger";
+
+import red from "@/components/Visit/red";
+import severndroog from "@/components/Visit/severndroog";
+import sutton from "@/components/Visit/sutton";
+
+import thames from "@/components/Visit/thames";
+
 import valence from "@/components/Visit/valence";
 import valentines from "@/components/Visit/valentines";
+import victoria from "@/components/Visit/victoria";
+import viktor from "@/components/Visit/viktor";
+
+
 
 export default {
   metaInfo: {
@@ -726,8 +503,25 @@ export default {
     ]
   },
   components: {
+    antioch,
+    bexley,
+    danson,
+    eastbury,
+    eltham,
+    greenwich,
+    geffrye,
+    hackney,
+    hall,
+    mayesbrook,
+    ranger,
+    red,
+    severndroog,
+    sutton,
+    thames,
     valence,
-    valentines
+    valentines,
+    victoria,
+    viktor,
   }
 };
 </script>
