@@ -7,17 +7,6 @@
       Home Matches</H3
     >
 
-    <H4 class="tory">Mon 2 March 2020</H4
-    ><!--mon 2 march -->
-
-    <p>
-      <g-image src="~/images/barkingside.jpg" width="40" />
-      Barkingside
-      <span style="color: #e000e0;">
-        V
-      </span>
-      Holland<br />
-    </p>
     <H4 class="tory">Fri 6 March 2020</H4
     ><!--Fri 6 march-->
     <p>
@@ -37,6 +26,12 @@
         V
       </span>
       South Park <br />
+      <g-image src="~/images/barkingside.jpg" width="40" />
+      Barkingside
+      <span style="color: #e000e0;">
+        V
+      </span>
+      Coggeshhall <br />
       <g-image src="~/images/charlton.png" width="40" />
       Charlton
       <span style="color: #e000e0;">
@@ -89,7 +84,7 @@
       V
     </span>
     Lewes <br />
-    <g-image src="~/images/hornchurch.jpg" width="40" />
+    <g-image src="~/images/newbury.jpg" width="40" />
     Newbury Forest
     <span style="color: #e000e0;">
       V
