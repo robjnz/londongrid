@@ -13,7 +13,7 @@
       <span style="font-size: 1em; color: white;">
         <i class="fas fa-hand-point-right"></i>
       </span>
-      Sun 15 - Sat 28 March 2020
+      Sun 15 - Sat 28 March
       <span style="color: #e000e0;">
         Mary Poppins Reappears
       </span>
@@ -26,7 +26,7 @@
       <span style="font-size: 1em; color: white;">
         <i class="fas fa-hand-point-right"></i>
       </span>
-      Wed 26 Feb - Sat 7 Mar 2020
+      Wed 26 Feb - Sat 7 March
       <span style="color: #e000e0;"> Macbeth </span>
       <g-link to="http://bit.ly/2v7lp3D" target="_blank"> More Info</g-link>
 
@@ -63,7 +63,7 @@
       <span style="font-size: 1em; color: white;">
         <i class="fas fa-hand-point-right"></i>
       </span>
-      Thurs 5 - Sat 7 March 2020
+      Thurs 5 - Sat 7 March
       <span style="color: #e000e0;"> Our House </span>
       <g-link to="http://bit.ly/2K48nZl" target="_blank"> More Info</g-link>
 
@@ -74,8 +74,8 @@
       <span style="font-size: 1em; color: white;">
         <i class="fas fa-hand-point-right"></i>
       </span>
-      Fri 13 – Sat 28 March 2020
-      
+      Fri 13 – Sat 28 March
+
       <span style="color: #e000e0;"> Maggie May </span>
       <g-link to="http://bit.ly/2Soh3MB" target="_blank"> More Info</g-link>
 
@@ -87,7 +87,7 @@
         <i class="fas fa-hand-point-right"></i>
       </span>
 
-      Tues 25 Feb - Sat 21 March 2020
+      Tues 25 Feb - Sat 21 March
       <span style="color: #e000e0">
         I Think We Are Alone
       </span>
@@ -102,17 +102,30 @@
       </span>
 
       Sat 7 Mar 2020 @ 6.30 pm
-      <span style="color: #e000e0;">  Michael Ball & Alfie Boe </span>
+      <span style="color: #e000e0;"> Michael Ball & Alfie Boe </span>
       <g-link to="http://bit.ly/2PpXswU" target="_blank"> More Info</g-link>
 
-      <br /><!--The Yard Hackney-->
+      <br />
+      <!--Wilton-->
+      <span style="color: #ef4836;;">Wilton's Music Hall </span>
+
+      <span style="font-size: 1em; color: white;">
+        <i class="fas fa-hand-point-right"></i>
+      </span>
+
+      Mon 16 March @ 7.30 pm
+      <span style="color: #e000e0;">Che Guevara </span>
+      <g-link to="http://bit.ly/2R9bBf7" target="_blank"> More Info</g-link>
+
+      <br />
+      <!--The Yard Hackney-->
       <span style="color: #ef4836;;">The Yard Hackney </span>
 
       <span style="font-size: 1em; color: white;">
         <i class="fas fa-hand-point-right"></i>
       </span>
 
-      Mon 24 Feb - Sat 14 March 2020
+      Mon 24 Feb - Sat 14 March
       <span style="color: #e000e0;">Christopher Green - No Show </span>
       <g-link to="http://bit.ly/2OYFsdx" target="_blank"> More Info</g-link>
 
