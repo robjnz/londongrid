@@ -1,4 +1,5 @@
 <template>
+
   <b-card bg-variant="dark" text-variant="white" title="House Mill">
     <g-link href="https://kutt.it/housemill" target="_blank"
       ><b-img
@@ -7,4 +8,5 @@
         alt = "House Mill"
     /></g-link>
   </b-card>
+ 
 </template>

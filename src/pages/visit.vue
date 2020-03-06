@@ -18,72 +18,67 @@
                     <b-card-group deck class="mb-3">
                       <bexley /><!--Bexley Park Wood-->
                       <chingford /><!--Chingford Sky Trail-->
-                      <danson /><!--Danson House-->
-                    </b-card-group>
-                    <b-card-group deck class="mb-3">
                       <docklands /><!--Docklands Museum-->
+                      </b-card-group>
+                    <b-card-group deck class="mb-3">
                       <eastbury /><!--Eastbury Manor House-->
                       <elizabeth /><!--Elizabeth's Hunting Lodg-->
+                      <eltham /><!--Eltham place-->
                     </b-card-group>
                     <b-card-group deck class="mb-3">
-                      <eltham /><!--Eltham place-->
                       <epping /><!--Epping Forest-->
                       <fairlop /><!--Fairlop Waters-->
-                    </b-card-group>
-                    <b-card-group deck class="mb-3">
                       <geffrye /><!--Geffrye Museum-->
+                    </b-card-group>
+                    <b-card-group deck class="mb-3">   
                       <hackney /><!--hackney city farm -->
                       <hall /><!--Hall Place & Gardens-->
+                      <havering /><!--Havering Park-->
                     </b-card-group>
                     <b-card-group deck class="mb-3">
-                      <havering /><!--Havering Park-->
                       <horniman /><!--Horniman Museam & Park-->
                       <hospital /><!--Hospital Chapel-->
+                      <house /><!--House Mill-->
                     </b-card-group>
                     <b-card-group deck class="mb-3">
-                      <house /><!--House Mill-->
                       <jack /><!--Jack the Ripper-->
                       <lee /><!--Lee Valley-->
+                      <mayesbrook /><!--Mayesbrook Park-->
                       </b-card-group>
                     <b-card-group deck class="mb-3">
-                      <mayesbrook /><!--Mayesbrook Park-->
                       <mudchute /><!--mudchute-->
                       <newham /><!--Newham City Farm -->
+                      <queen /><!--Queen Elizabeth Olympic Park-->
                       </b-card-group>
                     <b-card-group deck class="mb-3">
-                      <queen /><!--Queen Elizabeth Olympic Park-->
                       <ragged /><!--Ragged School Museum-->
                       <rainham /><!--Rainham Hall-->
+                      <ranger /><!--Ranger House-->
                       </b-card-group>
                     <b-card-group deck class="mb-3">
-                      <ranger /><!--Ranger House-->
                       <red /><!--Red House-->
                       <greenwich /><!--Royal Museums Greenwich-->
+                      <severndroog /><!--Severndroog Castle-->
                       </b-card-group>
                     <b-card-group deck class="mb-3">
-                      <severndroog /><!--Severndroog Castle-->
                       <antioch /><!--St. Margaret of Antioch-->
                       <sutton /><!---Sutton House-->
+                      <thames /><!--Thames barrier-->
                       </b-card-group>
                     <b-card-group deck class="mb-3">
-                      <thames /><!--Thames barrier-->
                       <tower /><!-- Tower of London-->
                       <trinity /><!--Trinity Buoy Wharf-->
+                      <upminster /><!--Upminster Windmill-->
                       </b-card-group>
                     <b-card-group deck class="mb-3">
-                      <upminster /><!--Upminster Windmill-->
                       <valence /><!--Valence House Museum-->
                       <valentines /><!--Valentines Mansions-->
+                      <victoria /><!--victoria park-->
                       </b-card-group>
                     <b-card-group deck class="mb-3">
-                      <victoria /><!--victoria park-->
                       <viktor /><!--Viktor Wyne Museum-->
                       <wanstead /><!--Wanstead Flats-->
-                      </b-card-group>
-                    <b-card-group deck class="mb-3">
                       <william /><!--William Morris Gallery & Park-->
-                      <Blank />
-                      <Blank />
                     </b-card-group>
                   </div>
                 </div>

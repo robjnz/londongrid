@@ -10,16 +10,14 @@
     /></g-link>
 
     <h6>
-      12 Cable Street<br /> London
+      12 Cable Street<br />
+      London
 
       <g-link class="labour" to="http://bit.ly/38trqp8" target="_blank">
         E1 8JG
       </g-link>
     </h6>
-
-    <h3 class="football">
-      
-    </h3>
+    <h3 class="football"></h3>
     <p class="football">
       Open 9.30am - 6.30pm Daily
     </p>
@@ -28,3 +26,4 @@
     </g-link>
   </b-card>
 </template>
+
