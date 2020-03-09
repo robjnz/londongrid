@@ -1,6 +1,6 @@
 <template>
   <b-card bg-variant="dark" text-variant="white" title="" align="center">
-    <h3 class="asian">Fairlop Waters Park</h3>
+    <h3 class="tory">Fairlop Waters Park</h3>
 
     <g-link href="http://bit.ly/3cvMXRv" target="_blank"
       ><b-img

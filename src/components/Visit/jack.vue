@@ -1,6 +1,6 @@
 <template>
   <b-card bg-variant="dark" text-variant="white" title="" align="center">
-    <h3 class="asian">Jack The Ripper Museum</h3>
+    <h3 class="tory">Jack The Ripper Museum</h3>
 
     <g-link href="http://bit.ly/2S9h1be" target="_blank"
       ><b-img

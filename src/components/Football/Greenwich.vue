@@ -1,6 +1,6 @@
 <template>
   <b-card bg-variant="dark" text-variant="white" title="" align="center">
-    <h3 class="asian">
+    <h3 class="tory">
       <g-image src="~/images/greenwich.jpg" width="50" />
       Greenwich<br />
     </h3>
@@ -15,9 +15,9 @@
       </g-link>
     </h6>
     <p class="football">
-      Sat 7 March 2020 @ 3pm<br />V<br />Fisher <br />
-      <!--
+      
       Sat 4 April 2020 @ 3 pm <br />V<br />Tunbridge Wells<br />
+      <!--
       Mon 13 April 2020 @ 3 pm <br />V<br />AFC Croydon <br />
       Sat 18 April 2020 @ 3 pm<br />V<br />Erith & Belvedere<br />
 

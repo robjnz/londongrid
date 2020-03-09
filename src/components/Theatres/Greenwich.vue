@@ -1,15 +1,21 @@
 <template>
-  <b-card bg-variant="dark" text-variant="white" title="Macbeth" align="center">
-    
+  <b-card bg-variant="dark" text-variant="white" title="" align="center">
+    <h3 class="tory">Greenwich Theatre<br /></h3>
     <b-img
-      src = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1581679413/2020-02-14_11_22_11-Window_nrhs9n.jpg"
+      src = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1583652683/Womans_v9sgy0.jpg"
       fluid-grow
-      alt = "Macbeth poster"
+      alt = "woman's poster"
     />
+    <p>
+      Crooms Hill<br /> Grenwich London 
 
-    <p class="title-color">
-      Greenwich Theatre
-      <br />Wed 26 Feb - Sat 7 Mar 2020
+      <g-link class="labour" to="http://bit.ly/3aBsF7d" target="_blank">
+        SE10 8ES
+      </g-link>
+    </p>
+    <h3 class="football">Woman's Like Romans <br />but With A W </h3>
+    <p class="football">
+      Tues 10 - Wed 11 March <br />@ 7.30 pm 
     </p>
     <p class="asian"></p>
     <div class="text-center my-3">
@@ -17,7 +23,7 @@
         block
         variant = "success"
         v-b-tooltip.hover
-        title = "Shakespeare’s supernatural Macbeth bursts on to the stage in this epic new ensemble production and features as the first production in Lazarus' third year as associate artists at Greenwich Theatre."
+        title = "t’s 44BC, Ancient Rome. Our hero, Leta has been declared a traitor by the Roman Senate.  She is given a punishment worse than death “Damnatio Memoriae” – to be erased from history. "
         >Description Read Me</b-button
       >
     </div>

@@ -2,8 +2,8 @@
   <Layout>
     <section main>
       <b-container>
-        <h1 class="asian">
-          <span style="font-size: 1em; color: Dodgerblue;">
+        <h1 class="labour">
+          <span style="font-size: 1em; color: #ff00ff;">
             <i class="fas fa-glass-cheers"></i>
           </span>
           Nightclubs

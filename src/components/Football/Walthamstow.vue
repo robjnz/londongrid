@@ -1,6 +1,6 @@
 <template>
   <b-card bg-variant="dark" text-variant="white" title="" align="center">
-    <h3 class="asian">
+    <h3 class="tory">
       <g-image src="~/images/walthamstow.jpg" width="50" />
       Walthamstow<br />
     </h3>
@@ -14,7 +14,7 @@
 
     <!--#walthamstowfc-->
     <p class="football">
-      Tues March 17 2020 @ 7.45pm <br />V<br />West Essex<br />
+      Tues 17 March 2020 @ 7.45pm <br />V<br />West Essex<br />
       <!--
 Sat March 28 2020 @ 3pm <br>V<br>St Margaretsbury<br>
 Sat April 11 2020 @ 3pm <br>V<br>Redbridge<br>

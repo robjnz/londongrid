@@ -1,6 +1,6 @@
 <template>
   <b-card bg-variant="dark" text-variant="white" title="" align="center">
-    <h3 class="asian">Valence House Museum<br /></h3>
+    <h3 class="tory">Valence House Museum<br /></h3>
     <g-link href="http://bit.ly/2RtEkMK" target="_blank"
       ><b-img
         src = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1516808274/Valence_kgjaez.jpg"

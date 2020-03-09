@@ -1,6 +1,6 @@
 <template>
   <div class="work-card">
-    <H4
+    <H4 class="tory"
       ><span style="font-size: 1em; color: Dodgerblue;">
         <i class="fas fa-theater-masks"></i>
       </span>
@@ -26,8 +26,8 @@
       <span style="font-size: 1em; color: white;">
         <i class="fas fa-hand-point-right"></i>
       </span>
-      Wed 26 Feb - Sat 7 March
-      <span style="color: #e000e0;"> Macbeth </span>
+      Tues 10 - Wed 11 March @ 7.30 pm
+      <span style="color: #e000e0;"> Woman's Like Romans but With A W </span>
       <g-link to="http://bit.ly/2v7lp3D" target="_blank"> More Info</g-link>
 
       <br />

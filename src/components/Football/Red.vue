@@ -1,6 +1,6 @@
 <template>
   <b-card bg-variant="dark" text-variant="white" title="" align="center">
-    <h3 class="asian">
+    <h3 class="tory">
       <g-image src="~/images/redbridge.jpg" width="50" />
       Redbridge<br />
     </h3>
@@ -15,9 +15,9 @@
 
     <p class="football">
       <!-- #FcRedbridge #TheMotormen -->
-      Sat 7 March 2020 @ 3pm <br />V<br />Sawbridgeworth Town<br />
-      <!--
+     
 Sat 18 April 2020 @ 3pm <br>V<br>Southend Manor<br>
+<!--
 Sat 25 April 2020 @ 3pm <br>v<br>West Essex<br>
 
 -->

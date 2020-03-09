@@ -1,11 +1,11 @@
 <template>
   <b-card bg-variant="dark" text-variant="white" title="" align="center">
-    <h3 class="asian">
+    <h3 class="tory">
       <g-image src="~/images/charlton.png" width="50" />
       Charlton <br />
     </h3>
 
-    <h5 class="tory">Woman Team</h5>
+    <h5 class="pink">Woman Team</h5>
     <h6>
       VCD Athletic<br />Old Rd Crayford Dartford <br />Kent
 

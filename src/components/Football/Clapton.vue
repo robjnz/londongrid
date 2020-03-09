@@ -1,6 +1,6 @@
 <template>
   <b-card bg-variant="dark" text-variant="white" title="‎" align="center">
-    <h3 class="asian">
+    <h3 class="tory">
       <g-image src="~/images/bridon.jpg" width="50" />
       Clapton<br />
     </h3>

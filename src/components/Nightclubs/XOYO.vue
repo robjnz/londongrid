@@ -2,9 +2,10 @@
   <b-card
     bg-variant   = "dark"
     text-variant = "white"
-    title        = "XOYO Shoreditch"
+    title        = ""
     align        = "center"
   >
+  <h3 class="tory">XOYO Shoreditch</h3>
     <a href="http://bit.ly/2U4qK37" target="_blank"
       ><b-img
         src = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_180,w_300/v1551027628/xoyo_uel6gt.jpg"
@@ -19,7 +20,7 @@
        EC2A 4AW
       </g-link>
     </h6>
-    <p class="asian">Fri 6 March 21.30 pm - 4 am <br />Dusky</p>
+    <p class="football">Fri 13 March 21.30 pm - 4 am <br />Dusky</p>
     <g-link class="labour" to="http://bit.ly/2U4qK37" target="_blank">
       More Info
     </g-link>

@@ -1,6 +1,6 @@
 <template>
   <b-card bg-variant="dark" text-variant="white" title="" align="center">
-    <h3 class="asian">The O2 arena<br /></h3>
+    <h3 class="tory">The O2 arena<br /></h3>
     <b-img
       src = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1583138050/BallandBoe_fz1ixi.jpg"
       fluid-grow

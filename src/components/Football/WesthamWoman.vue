@@ -1,10 +1,10 @@
 <template>
   <b-card bg-variant="dark" text-variant="white" title="" align="center">
-    <h3 class="asian">
+    <h3 class="tory">
       <g-image src="~/images/west_ham.png" width="50" />
       West Ham<br />
     </h3>
-    <h5 class="tory">Woman Team</h5>
+    <h5 class="pink">Woman Team</h5>
 
     <h6>
       Rush Green Training Ground<br />

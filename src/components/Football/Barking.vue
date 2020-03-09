@@ -1,6 +1,6 @@
 <template>
   <b-card bg-variant="dark" text-variant="white" title="" align="center">
-    <h3 class="asian">
+    <h3 class="tory">
       <g-image src="~/images/barking.jpg" width="50" />
       Barking<br />
     </h3>
@@ -16,13 +16,13 @@
     </h6>
     <!-- #barkingfc -->
     <p class="football">
-      Sat 7 March 2020 @ 3pm<br />V<br />South Park FC <br />
-      <!--
-  Sat March 21 2020 @ 3pm<br>V<br>Ashford Town (Middx) FC<br>
-  Sat April 4 2020 @ 3pm<br>V<br>Marlow FC<br>
-  Sat April 11 2020 @ 3pm<br>V<br>Ware FC <br>
-  Mon April 13 2020 @ 3pm<br>V<br>Harlow Town FC  <br>
-  Sat April 25 2020 @ 3pm<br>V<br>Chipstead FC<br>
+     
+  Sat 21 March 2020 @ 3pm<br>V<br>Ashford Town (Middx) FC<br>
+  <!--
+  Sat 4 April 2020 @ 3pm<br>V<br>Marlow FC<br>
+  Sat 11 April 2020 @ 3pm<br>V<br>Ware FC <br>
+  Mon 13 April 2020 @ 3pm<br>V<br>Harlow Town FC  <br>
+  Sat 25 April 2020 @ 3pm<br>V<br>Chipstead FC<br>
 -->
     </p>
     <g-link class="labour" to="http://bit.ly/2Pg06kK" target="_blank">

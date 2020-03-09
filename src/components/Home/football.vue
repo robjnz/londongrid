@@ -1,76 +1,13 @@
 <template>
   <div class="work-card">
-    <H3
+    <H4 class="tory"
       ><span style="font-size: 1em; color: Dodgerblue;">
         <i class="far fa-futbol"></i>
       </span>
-      Home Matches</H3
+      Home Matches</H4
     >
 
-    <H4 class="tory">Fri 6 March 2020</H4
-    ><!--Fri 6 march-->
-    <p>
-      <g-image src="~/images/may.jpg" width="40" />
-      May & Bakers
-      <span style="color: #e000e0;">
-        V
-      </span>
-      Fenford <br />
-    </p>
-    <H4 class="tory">Sat 7 March 2020</H4
-    ><!--Sat 7 march-->
-    <p>
-      <g-image src="~/images/barking.jpg" width="40" />
-      Barking
-      <span style="color: #e000e0;">
-        V
-      </span>
-      South Park <br />
-      <g-image src="~/images/barkingside.jpg" width="40" />
-      Barkingside
-      <span style="color: #e000e0;">
-        V
-      </span>
-      Coggeshhall <br />
-      <g-image src="~/images/charlton.png" width="40" />
-      Charlton
-      <span style="color: #e000e0;">
-        V
-      </span>
-      Middlesbrough <br />
-      <g-image src="~/images/belvedere.jpg" width="40" />
-      Erith & Belvedere
-      <span style="color: #e000e0;">
-        V
-      </span>
-      Canterbuty City <br />
-      <g-image src="~/images/greenwich.jpg" width="40" />
-      Greenwich
-      <span style="color: #e000e0;"> V </span>Fisher<br />
-      <g-image src="~/images/orient.jpg" width="40" />
-      Leyton Orient
-      <span style="color: #e000e0;">
-        V
-      </span>
-      Cambridge United <br />
-      <g-image src="~/images/redbridge.jpg" width="40" />
-      Redbridge
-      <span style="color: #e000e0;">
-        V
-      </span>
-      Sawbridgeworth Town <br />
-    </p>
-    <H4 class="tory">Wed 11 March 2020</H4
-    ><!--Wed 11 march-->
-    <p>
-      <g-image src="~/images/romford.jpg" width="40" />
-      Romford
-      <span style="color: #e000e0;">
-        V
-      </span>
-      Tilbury<br />
-    </p>
-    <H4 class="tory">Sat 14 March 2020</H4
+    <h5 class="labour">Sat 14 March 2020</H5
     ><!--sat 14 march-->
     <g-image src="~/images/erith.jpg" width="40" />
     Erith Town
@@ -109,7 +46,36 @@
       V
     </span>
     Hastings United <br />
-    <p></p>
+    <H5 class="labour">Tues 17 March 2020</H5
+    ><!--Tues 17 march-->
+    <g-image src="~/images/charlton.png" width="40" />
+    Charlton
+    <span style="color: #e000e0;">
+      V
+    </span>
+    Queens Park Rangers<br />
+    <g-image src="~/images/orient.jpg" width="40" />
+    Leyton Orient
+    <span style="color: #e000e0;">
+      V
+    </span>
+    Plymouth Argyle<br />
+    <g-image src="~/images/walthamstow.jpg" width="40" />
+    Walthamstow
+    <span style="color: #e000e0;">
+      V
+    </span>
+    West Essex<br />
+    <H5 class="labour">Wed 18 March 2020</H5
+    ><!--Wed 18 march-->
+
+    <h5 class="pink">Women's League</h5>
+    <g-image src="~/images/orient.jpg" width="40" />
+    Leyton Orient
+    <span style="color: #e000e0;">
+      V
+    </span>
+    Wimbledon<br />
 
     <g-link to="/sport/football/">More Info</g-link>
   </div>

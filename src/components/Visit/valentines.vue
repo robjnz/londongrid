@@ -1,6 +1,6 @@
 <template>
   <b-card bg-variant="dark" text-variant="white" title="" align="center">
-    <h3 class="asian">Valentines Mansion <br />& Park<br /></h3>
+    <h3 class="tory">Valentines Mansion <br />& Park<br /></h3>
 
     <g-link href="http://bit.ly/2S9h1be" target="_blank"
       ><b-img

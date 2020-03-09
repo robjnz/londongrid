@@ -13,6 +13,7 @@
 
     <b-navbar-nav class="nav">
       <b-nav-item href="/">Home</b-nav-item>
+      <!--
       <b-nav-item-dropdown text="Links" right>
         <b-dropdown-item href="/computers">Computer software</b-dropdown-item>
         <b-dropdown-item href="/education">Education</b-dropdown-item>
@@ -28,7 +29,7 @@
         <b-dropdown-item href="/welfare">Welfare Rights</b-dropdown-item>
         <b-dropdown-item href="/esa">Claiming ESA</b-dropdown-item>
       </b-nav-item-dropdown>
-
+-->
       <b-nav-item-dropdown text="Travel" right>
         <b-dropdown-item href="/travel">Live Train Times</b-dropdown-item>
         <b-dropdown-item href="/travel-links">Travel Links</b-dropdown-item>
@@ -64,7 +65,7 @@
         <b-dropdown-item href="/Ent/restaurants">Restaurants Guides</b-dropdown-item>
 
         </b-nav-item-dropdown>
-
+<!--
         <b-nav-item-dropdown text="Jobs" right>
         <b-dropdown-item href="/job-resources">Job Resources</b-dropdown-item>
         <b-dropdown-item href="/volunteering">Volunteering</b-dropdown-item>
@@ -72,7 +73,7 @@
         <b-dropdown-item href="/universal-credit">Universal Credit</b-dropdown-item>
 
         </b-nav-item-dropdown>
-
+-->
         <b-nav-item-dropdown  text="Sport" right>
         <b-dropdown-item href="/Sport/football">Football Matches</b-dropdown-item>
         <b-dropdown-item href="/Sport/rugby">Rugby Football Clubs</b-dropdown-item>
@@ -81,7 +82,7 @@
         <b-dropdown-item href="/Sport/tennis">Tennis Courts</b-dropdown-item>
         </b-nav-item-dropdown>
 
-
+        <b-nav-item href="/contact">Contact</b-nav-item>
     </b-navbar-nav>
 
     <!-- Right aligned nav items -->

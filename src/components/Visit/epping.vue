@@ -1,6 +1,6 @@
 <template>
   <b-card bg-variant="dark" text-variant="white" title="" align="center">
-     <h3 class="asian">Epping Forest</h3>
+     <h3 class="tory">Epping Forest</h3>
 
     <g-link href="http://bit.ly/2ywqe5a" target="_blank"
       ><b-img

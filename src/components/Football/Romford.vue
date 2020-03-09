@@ -1,6 +1,6 @@
 <template>
   <b-card bg-variant="dark" text-variant="white" title="" align="center">
-    <h3 class="asian">
+    <h3 class="tory">
       <g-image src="~/images/romford.jpg" width="50" />
       Romford<br />
     </h3>
@@ -15,9 +15,9 @@
       </g-link>
     </h6>
     <p class="football">
-      Wed 11 March 2020 @ 19.45 pm <br />V<br />Tilbury<br />
-      <!--
+     
       Sat 16 March 2020 @ 3 pm <br />v<br />Heyridge Swifts<br />
+      <!--
       Wed 25 March 2020 @ 19.45 pm Maldon & Tiptree<br />
       Sat 28 March 2020 @ 3 pm <br />V<br />Cambridge City<br />
       Sat 11 April 2020 @ 3pm <br />V<br />Basildon United<br />

@@ -2,9 +2,10 @@
   <b-card
     bg-variant   = "dark"
     text-variant = "white"
-    title        = "Bar300 Walthamstow"
+    title        = ""
     align        = "center"
   >
+  <h3 class="tory">Bar300 Walthamstow</h3>
     <a href="http://bit.ly/2V7L97A" target="_blank"
       ><b-img
         src = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1551026332/bar300_j26uzg.jpg"
@@ -20,7 +21,7 @@
         E17 9QD
       </g-link>
     </h6>
-    <p class="asian"> <br /> </p>
+    <p class="asian"> <br /><br /> </p>
     <g-link class="labour" to="http://bit.ly/2tAKwYs" target="_blank">
       More Info
     </g-link>

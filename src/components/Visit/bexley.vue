@@ -1,6 +1,6 @@
 <template>
   <b-card bg-variant="dark" text-variant="white" title="" align="center">
-    <h3 class="asian">Bexley Park Wood</h3>
+    <h3 class="tory">Bexley Park Wood</h3>
 
     <g-link href="http://bit.ly/2E7182l" target="_blank"
       ><b-img

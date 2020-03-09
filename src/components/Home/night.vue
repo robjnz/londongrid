@@ -1,6 +1,6 @@
 <template>
   <div class="work-card">
-    <H4
+    <H4 class="tory"
       ><span style="font-size: 1em; color: Dodgerblue;">
         <i class="fas fa-glass-cheers"></i>
       </span>
@@ -13,7 +13,7 @@
       <span style="font-size: 1em; color: white;">
         <i class="fas fa-hand-point-right"></i>
       </span>
-      Fri 6 March 2020 @ 10 pm - 4 am
+      Fri 13 March 2020 @ 10 pm - 4 am
       <span style="color: #e000e0;">
         Schpunk
       </span>
@@ -63,7 +63,7 @@
       <span style="font-size: 1em; color: white;">
         <i class="fas fa-hand-point-right"></i>
       </span>
-      Fri 6 March 21.30 pm - 4 am
+      Fri 13 March 21.30 pm - 4 am
       <span style="color: #e000e0;">
         Dusky
       </span>

@@ -1,7 +1,7 @@
 <template>
   <div class="work-card">
-    <h4>
-      <span style="font-size: 1em; color: Dodgerblue;">
+    <h4 class="tory">
+      <span  style="font-size: 1em; color: Dodgerblue;">
         <i class="far fa-calendar-alt"></i>
       </span>
       Whats on in East London

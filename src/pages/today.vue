@@ -2,9 +2,9 @@
   <Layout>
     <section main>
       <b-container>
-        <h1 class="asian">
-          <span style="font-size: 1em; color: Dodgerblue;">
-            <i class="far fa-calendar-alt"></i>
+        <h1 class="labour">
+          <span style="font-size: 1em; color: #ff00ff;">
+            <i class="fas fa-pen-fancy"></i>
           </span>
           This Months Events 
         </h1>

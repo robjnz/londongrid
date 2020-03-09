@@ -1,10 +1,6 @@
 <template>
-  <b-card
-    bg-variant   = "dark"
-    text-variant = "white"
-    title        = "kings Bull Barking"
-    align        = "center"
-  >
+  <b-card bg-variant="dark" text-variant="white" title="" align="center">
+    <h3 class="tory">kings Bull Barking</h3>
     <a href="http://bit.ly/2Ns7jis" target="_blank"
       ><b-img
         src = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_180,w_300/v1550941361/Kings-Bull_xgogbn.jpg"
@@ -20,7 +16,7 @@
         IG11 8ET
       </g-link>
     </h6>
-    <p class="asian">Sat 23 May 2020 @ 10 pm - 4.30 am<br />Rugbys 7s</p>
+    <p class="football">Sat 23 May 2020 @ 10 pm - 4.30 am<br />Rugbys 7s</p>
     <g-link class="labour" to="http://bit.ly/2Ns7jis" target="_blank">
       More Info
     </g-link>

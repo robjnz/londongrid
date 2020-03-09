@@ -1,6 +1,6 @@
 <template>
   <b-card bg-variant="dark" text-variant="white" title= "" align ="center">
-     <h3 class="asian">
+     <h3 class="tory">
       <g-image src="~/images/orient.jpg" width="50" />
       Leyton Orient<br />
     </h3>
@@ -19,9 +19,9 @@
 <!-- #leytonorientfc -->
 <p class="football">
 
-Sat 7 March 2020 @ 3pm <br>V<br>Cambridge United<br>
-<!--
+
 Tues 17 March 2020 @ 7.45pm <br>V<br>Plymouth Argyle<br>
+<!--
 Sat 28 March 2020 @ 3pm <br>V<br>Morecambe<br>
 Mon 13 April 2020 @ 3pm <br>V<br>Salford City<br>
 Sat 25 April 2020 @ 3pm <br>V<br>Exeter City <br>

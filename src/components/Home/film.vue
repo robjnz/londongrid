@@ -1,12 +1,12 @@
 <template>
   <div class="work-card">
-    <H4
+    <H4 class="tory"
       ><span style="font-size: 1em; color: Dodgerblue;">
         <i class="fas fa-film"></i>
       </span>
       Cinama</H4
     >
-    <h3 class="tory">Dark Waters</h3>
+    <h3 class="labour">Dark Waters</h3>
     <p>
       Showing This Week at: <br />
       Cineworld
